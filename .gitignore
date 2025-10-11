@@ -1,0 +1,22 @@
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore audio data (keep folders but not files)
+data/*.wav
+data/*.mp3
+data/*.flac
+
+# Ignore trained models
+models/
+*.h5
+*.pt
+
+# Ignore large temporary files
+*.zip
+*.tar
+*.gz
+
+# Streamlit cache
+.streamlit/
