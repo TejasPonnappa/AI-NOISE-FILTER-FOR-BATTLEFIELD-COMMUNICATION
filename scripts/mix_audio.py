@@ -15,8 +15,8 @@ os.makedirs(output_dir, exist_ok=True)
 clean_files = [f for f in os.listdir(clean_dir) if f.endswith(".wav")]
 noise_files = [f for f in os.listdir(noise_dir) if f.endswith(".wav")]
 
-# Minimum clip length in ms (1 second)
-MIN_LENGTH = 1500
+# Minimum clip length in ms (2 seconds)
+MIN_LENGTH = 2000
 
 count = 0
 # -----------------------------
@@ -53,6 +53,6 @@ for cf in clean_files:
         out_file = os.path.join(output_dir, f"noisy_{count}.wav")
         mixed_audio.export(out_file, format="wav")
         print(f"Saved: {out_file}")
-        count += 1
+        count += 1  
 
 print(f"All mixed audio generated! Total files: {count}")

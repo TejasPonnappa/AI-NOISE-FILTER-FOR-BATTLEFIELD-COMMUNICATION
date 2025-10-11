@@ -14,7 +14,7 @@ processed_noisy_dir = "data/noisy_processed/"
 os.makedirs(processed_clean_dir, exist_ok=True)
 os.makedirs(processed_noisy_dir, exist_ok=True)
 
-MIN_LENGTH = 1000  # 1 second in ms
+MIN_LENGTH = 2000  # 1 second in ms
 TARGET_SR = 16000  # 16 kHz
 
 # -----------------------------
