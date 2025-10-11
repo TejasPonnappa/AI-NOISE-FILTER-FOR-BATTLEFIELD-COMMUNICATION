@@ -1,601 +1,871 @@
-noisy_file,clean_file,noise_file
-noisy_0.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,ak-47-firing-8760.wav
-noisy_1.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_2.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_3.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_4.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,f-106-fly-by-98385.wav
-noisy_5.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_6.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_7.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,helicopter-flying-over-245480.wav
-noisy_8.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,helicopter-propeller-sound.wav
-noisy_9.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,jet-plane-fly-by-369631.wav
-noisy_10.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,jet-turbine-noise-53845.wav
-noisy_11.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,machine-gun-381969.wav
-noisy_12.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,military-vocals-78141.wav
-noisy_13.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,submarine-alarm-sound.wav
-noisy_14.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,tank-moving-143104.wav
-noisy_15.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_16.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_17.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_18.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_19.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_20.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,ak-47-firing-8760.wav
-noisy_21.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_22.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_23.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_24.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,f-106-fly-by-98385.wav
-noisy_25.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_26.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_27.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,helicopter-flying-over-245480.wav
-noisy_28.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,helicopter-propeller-sound.wav
-noisy_29.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,jet-plane-fly-by-369631.wav
-noisy_30.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,jet-turbine-noise-53845.wav
-noisy_31.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,machine-gun-381969.wav
-noisy_32.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,military-vocals-78141.wav
-noisy_33.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,submarine-alarm-sound.wav
-noisy_34.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,tank-moving-143104.wav
-noisy_35.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_36.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_37.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_38.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_39.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_40.wav,161493__brandontgn__stand-clear-of-the-doors.wav,ak-47-firing-8760.wav
-noisy_41.wav,161493__brandontgn__stand-clear-of-the-doors.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_42.wav,161493__brandontgn__stand-clear-of-the-doors.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_43.wav,161493__brandontgn__stand-clear-of-the-doors.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_44.wav,161493__brandontgn__stand-clear-of-the-doors.wav,f-106-fly-by-98385.wav
-noisy_45.wav,161493__brandontgn__stand-clear-of-the-doors.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_46.wav,161493__brandontgn__stand-clear-of-the-doors.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_47.wav,161493__brandontgn__stand-clear-of-the-doors.wav,helicopter-flying-over-245480.wav
-noisy_48.wav,161493__brandontgn__stand-clear-of-the-doors.wav,helicopter-propeller-sound.wav
-noisy_49.wav,161493__brandontgn__stand-clear-of-the-doors.wav,jet-plane-fly-by-369631.wav
-noisy_50.wav,161493__brandontgn__stand-clear-of-the-doors.wav,jet-turbine-noise-53845.wav
-noisy_51.wav,161493__brandontgn__stand-clear-of-the-doors.wav,machine-gun-381969.wav
-noisy_52.wav,161493__brandontgn__stand-clear-of-the-doors.wav,military-vocals-78141.wav
-noisy_53.wav,161493__brandontgn__stand-clear-of-the-doors.wav,submarine-alarm-sound.wav
-noisy_54.wav,161493__brandontgn__stand-clear-of-the-doors.wav,tank-moving-143104.wav
-noisy_55.wav,161493__brandontgn__stand-clear-of-the-doors.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_56.wav,161493__brandontgn__stand-clear-of-the-doors.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_57.wav,161493__brandontgn__stand-clear-of-the-doors.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_58.wav,161493__brandontgn__stand-clear-of-the-doors.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_59.wav,161493__brandontgn__stand-clear-of-the-doors.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_60.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,ak-47-firing-8760.wav
-noisy_61.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_62.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_63.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_64.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,f-106-fly-by-98385.wav
-noisy_65.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,gun-shots-from-a-distance-8-39860.wav
-noisy_66.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_67.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,helicopter-flying-over-245480.wav
-noisy_68.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,helicopter-propeller-sound.wav
-noisy_69.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,jet-plane-fly-by-369631.wav
-noisy_70.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,jet-turbine-noise-53845.wav
-noisy_71.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,machine-gun-381969.wav
-noisy_72.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,military-vocals-78141.wav
-noisy_73.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,submarine-alarm-sound.wav
-noisy_74.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,tank-moving-143104.wav
-noisy_75.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_76.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_77.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_78.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_79.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_80.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,ak-47-firing-8760.wav
-noisy_81.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_82.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_83.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_84.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,f-106-fly-by-98385.wav
-noisy_85.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,gun-shots-from-a-distance-8-39860.wav
-noisy_86.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_87.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,helicopter-flying-over-245480.wav
-noisy_88.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,helicopter-propeller-sound.wav
-noisy_89.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,jet-plane-fly-by-369631.wav
-noisy_90.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,jet-turbine-noise-53845.wav
-noisy_91.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,machine-gun-381969.wav
-noisy_92.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,military-vocals-78141.wav
-noisy_93.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,submarine-alarm-sound.wav
-noisy_94.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,tank-moving-143104.wav
-noisy_95.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_96.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_97.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_98.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_99.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_100.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,ak-47-firing-8760.wav
-noisy_101.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_102.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_103.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_104.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,f-106-fly-by-98385.wav
-noisy_105.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_106.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_107.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,helicopter-flying-over-245480.wav
-noisy_108.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,helicopter-propeller-sound.wav
-noisy_109.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,jet-plane-fly-by-369631.wav
-noisy_110.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,jet-turbine-noise-53845.wav
-noisy_111.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,machine-gun-381969.wav
-noisy_112.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,military-vocals-78141.wav
-noisy_113.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,submarine-alarm-sound.wav
-noisy_114.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,tank-moving-143104.wav
-noisy_115.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_116.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_117.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_118.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_119.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_120.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,ak-47-firing-8760.wav
-noisy_121.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_122.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_123.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_124.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,f-106-fly-by-98385.wav
-noisy_125.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_126.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_127.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,helicopter-flying-over-245480.wav
-noisy_128.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,helicopter-propeller-sound.wav
-noisy_129.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,jet-plane-fly-by-369631.wav
-noisy_130.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,jet-turbine-noise-53845.wav
-noisy_131.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,machine-gun-381969.wav
-noisy_132.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,military-vocals-78141.wav
-noisy_133.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,submarine-alarm-sound.wav
-noisy_134.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,tank-moving-143104.wav
-noisy_135.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_136.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_137.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_138.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_139.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_140.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,ak-47-firing-8760.wav
-noisy_141.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_142.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_143.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_144.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,f-106-fly-by-98385.wav
-noisy_145.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,gun-shots-from-a-distance-8-39860.wav
-noisy_146.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_147.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,helicopter-flying-over-245480.wav
-noisy_148.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,helicopter-propeller-sound.wav
-noisy_149.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,jet-plane-fly-by-369631.wav
-noisy_150.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,jet-turbine-noise-53845.wav
-noisy_151.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,machine-gun-381969.wav
-noisy_152.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,military-vocals-78141.wav
-noisy_153.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,submarine-alarm-sound.wav
-noisy_154.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,tank-moving-143104.wav
-noisy_155.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_156.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_157.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_158.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_159.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_160.wav,643195__levi_cunha__police_radio_portuguese.wav,ak-47-firing-8760.wav
-noisy_161.wav,643195__levi_cunha__police_radio_portuguese.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_162.wav,643195__levi_cunha__police_radio_portuguese.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_163.wav,643195__levi_cunha__police_radio_portuguese.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_164.wav,643195__levi_cunha__police_radio_portuguese.wav,f-106-fly-by-98385.wav
-noisy_165.wav,643195__levi_cunha__police_radio_portuguese.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_166.wav,643195__levi_cunha__police_radio_portuguese.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_167.wav,643195__levi_cunha__police_radio_portuguese.wav,helicopter-flying-over-245480.wav
-noisy_168.wav,643195__levi_cunha__police_radio_portuguese.wav,helicopter-propeller-sound.wav
-noisy_169.wav,643195__levi_cunha__police_radio_portuguese.wav,jet-plane-fly-by-369631.wav
-noisy_170.wav,643195__levi_cunha__police_radio_portuguese.wav,jet-turbine-noise-53845.wav
-noisy_171.wav,643195__levi_cunha__police_radio_portuguese.wav,machine-gun-381969.wav
-noisy_172.wav,643195__levi_cunha__police_radio_portuguese.wav,military-vocals-78141.wav
-noisy_173.wav,643195__levi_cunha__police_radio_portuguese.wav,submarine-alarm-sound.wav
-noisy_174.wav,643195__levi_cunha__police_radio_portuguese.wav,tank-moving-143104.wav
-noisy_175.wav,643195__levi_cunha__police_radio_portuguese.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_176.wav,643195__levi_cunha__police_radio_portuguese.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_177.wav,643195__levi_cunha__police_radio_portuguese.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_178.wav,643195__levi_cunha__police_radio_portuguese.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_179.wav,643195__levi_cunha__police_radio_portuguese.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_180.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,ak-47-firing-8760.wav
-noisy_181.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_182.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_183.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_184.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,f-106-fly-by-98385.wav
-noisy_185.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,gun-shots-from-a-distance-8-39860.wav
-noisy_186.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_187.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480.wav
-noisy_188.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,helicopter-propeller-sound.wav
-noisy_189.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,jet-plane-fly-by-369631.wav
-noisy_190.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,jet-turbine-noise-53845.wav
-noisy_191.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,machine-gun-381969.wav
-noisy_192.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,military-vocals-78141.wav
-noisy_193.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,submarine-alarm-sound.wav
-noisy_194.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,tank-moving-143104.wav
-noisy_195.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_196.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_197.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_198.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_199.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_200.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,ak-47-firing-8760.wav
-noisy_201.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_202.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_203.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_204.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,f-106-fly-by-98385.wav
-noisy_205.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,gun-shots-from-a-distance-8-39860.wav
-noisy_206.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_207.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,helicopter-flying-over-245480.wav
-noisy_208.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,helicopter-propeller-sound.wav
-noisy_209.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,jet-plane-fly-by-369631.wav
-noisy_210.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,jet-turbine-noise-53845.wav
-noisy_211.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,machine-gun-381969.wav
-noisy_212.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,military-vocals-78141.wav
-noisy_213.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,submarine-alarm-sound.wav
-noisy_214.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,tank-moving-143104.wav
-noisy_215.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_216.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_217.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_218.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_219.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_220.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,ak-47-firing-8760.wav
-noisy_221.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_222.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_223.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_224.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,f-106-fly-by-98385.wav
-noisy_225.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,gun-shots-from-a-distance-8-39860.wav
-noisy_226.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_227.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,helicopter-flying-over-245480.wav
-noisy_228.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,helicopter-propeller-sound.wav
-noisy_229.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,jet-plane-fly-by-369631.wav
-noisy_230.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,jet-turbine-noise-53845.wav
-noisy_231.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,machine-gun-381969.wav
-noisy_232.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,military-vocals-78141.wav
-noisy_233.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,submarine-alarm-sound.wav
-noisy_234.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,tank-moving-143104.wav
-noisy_235.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_236.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_237.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_238.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_239.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_240.wav,HIN_M_AbhishekS.wav,ak-47-firing-8760.wav
-noisy_241.wav,HIN_M_AbhishekS.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_242.wav,HIN_M_AbhishekS.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_243.wav,HIN_M_AbhishekS.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_244.wav,HIN_M_AbhishekS.wav,f-106-fly-by-98385.wav
-noisy_245.wav,HIN_M_AbhishekS.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_246.wav,HIN_M_AbhishekS.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_247.wav,HIN_M_AbhishekS.wav,helicopter-flying-over-245480.wav
-noisy_248.wav,HIN_M_AbhishekS.wav,helicopter-propeller-sound.wav
-noisy_249.wav,HIN_M_AbhishekS.wav,jet-plane-fly-by-369631.wav
-noisy_250.wav,HIN_M_AbhishekS.wav,jet-turbine-noise-53845.wav
-noisy_251.wav,HIN_M_AbhishekS.wav,machine-gun-381969.wav
-noisy_252.wav,HIN_M_AbhishekS.wav,military-vocals-78141.wav
-noisy_253.wav,HIN_M_AbhishekS.wav,submarine-alarm-sound.wav
-noisy_254.wav,HIN_M_AbhishekS.wav,tank-moving-143104.wav
-noisy_255.wav,HIN_M_AbhishekS.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_256.wav,HIN_M_AbhishekS.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_257.wav,HIN_M_AbhishekS.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_258.wav,HIN_M_AbhishekS.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_259.wav,HIN_M_AbhishekS.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_260.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,ak-47-firing-8760.wav
-noisy_261.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_262.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_263.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_264.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,f-106-fly-by-98385.wav
-noisy_265.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,gun-shots-from-a-distance-8-39860.wav
-noisy_266.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_267.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480.wav
-noisy_268.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,helicopter-propeller-sound.wav
-noisy_269.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,jet-plane-fly-by-369631.wav
-noisy_270.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,jet-turbine-noise-53845.wav
-noisy_271.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,machine-gun-381969.wav
-noisy_272.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,military-vocals-78141.wav
-noisy_273.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,submarine-alarm-sound.wav
-noisy_274.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,tank-moving-143104.wav
-noisy_275.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_276.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_277.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_278.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_279.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_280.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,ak-47-firing-8760.wav
-noisy_281.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_282.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_283.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_284.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,f-106-fly-by-98385.wav
-noisy_285.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,gun-shots-from-a-distance-8-39860.wav
-noisy_286.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_287.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,helicopter-flying-over-245480.wav
-noisy_288.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,helicopter-propeller-sound.wav
-noisy_289.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,jet-plane-fly-by-369631.wav
-noisy_290.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,jet-turbine-noise-53845.wav
-noisy_291.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,machine-gun-381969.wav
-noisy_292.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,military-vocals-78141.wav
-noisy_293.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,submarine-alarm-sound.wav
-noisy_294.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,tank-moving-143104.wav
-noisy_295.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_296.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_297.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_298.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_299.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_300.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,ak-47-firing-8760.wav
-noisy_301.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_302.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_303.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_304.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,f-106-fly-by-98385.wav
-noisy_305.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_306.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_307.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,helicopter-flying-over-245480.wav
-noisy_308.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,helicopter-propeller-sound.wav
-noisy_309.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,jet-plane-fly-by-369631.wav
-noisy_310.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,jet-turbine-noise-53845.wav
-noisy_311.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,machine-gun-381969.wav
-noisy_312.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,military-vocals-78141.wav
-noisy_313.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,submarine-alarm-sound.wav
-noisy_314.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,tank-moving-143104.wav
-noisy_315.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_316.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_317.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_318.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_319.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_320.wav,download (1).wav,ak-47-firing-8760.wav
-noisy_321.wav,download (1).wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_322.wav,download (1).wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_323.wav,download (1).wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_324.wav,download (1).wav,f-106-fly-by-98385.wav
-noisy_325.wav,download (1).wav,gun-shots-from-a-distance-8-39860.wav
-noisy_326.wav,download (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_327.wav,download (1).wav,helicopter-flying-over-245480.wav
-noisy_328.wav,download (1).wav,helicopter-propeller-sound.wav
-noisy_329.wav,download (1).wav,jet-plane-fly-by-369631.wav
-noisy_330.wav,download (1).wav,jet-turbine-noise-53845.wav
-noisy_331.wav,download (1).wav,machine-gun-381969.wav
-noisy_332.wav,download (1).wav,military-vocals-78141.wav
-noisy_333.wav,download (1).wav,submarine-alarm-sound.wav
-noisy_334.wav,download (1).wav,tank-moving-143104.wav
-noisy_335.wav,download (1).wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_336.wav,download (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_337.wav,download (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_338.wav,download (1).wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_339.wav,download (1).wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_340.wav,homealone.wav,ak-47-firing-8760.wav
-noisy_341.wav,homealone.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_342.wav,homealone.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_343.wav,homealone.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_344.wav,homealone.wav,f-106-fly-by-98385.wav
-noisy_345.wav,homealone.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_346.wav,homealone.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_347.wav,homealone.wav,helicopter-flying-over-245480.wav
-noisy_348.wav,homealone.wav,helicopter-propeller-sound.wav
-noisy_349.wav,homealone.wav,jet-plane-fly-by-369631.wav
-noisy_350.wav,homealone.wav,jet-turbine-noise-53845.wav
-noisy_351.wav,homealone.wav,machine-gun-381969.wav
-noisy_352.wav,homealone.wav,military-vocals-78141.wav
-noisy_353.wav,homealone.wav,submarine-alarm-sound.wav
-noisy_354.wav,homealone.wav,tank-moving-143104.wav
-noisy_355.wav,homealone.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_356.wav,homealone.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_357.wav,homealone.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_358.wav,homealone.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_359.wav,homealone.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_360.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,ak-47-firing-8760.wav
-noisy_361.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_362.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_363.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_364.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,f-106-fly-by-98385.wav
-noisy_365.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_366.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_367.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,helicopter-flying-over-245480.wav
-noisy_368.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,helicopter-propeller-sound.wav
-noisy_369.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,jet-plane-fly-by-369631.wav
-noisy_370.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,jet-turbine-noise-53845.wav
-noisy_371.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,machine-gun-381969.wav
-noisy_372.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,military-vocals-78141.wav
-noisy_373.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,submarine-alarm-sound.wav
-noisy_374.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,tank-moving-143104.wav
-noisy_375.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_376.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_377.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_378.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_379.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_380.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,ak-47-firing-8760.wav
-noisy_381.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_382.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_383.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_384.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,f-106-fly-by-98385.wav
-noisy_385.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_386.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_387.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,helicopter-flying-over-245480.wav
-noisy_388.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,helicopter-propeller-sound.wav
-noisy_389.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,jet-plane-fly-by-369631.wav
-noisy_390.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,jet-turbine-noise-53845.wav
-noisy_391.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,machine-gun-381969.wav
-noisy_392.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,military-vocals-78141.wav
-noisy_393.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,submarine-alarm-sound.wav
-noisy_394.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,tank-moving-143104.wav
-noisy_395.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_396.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_397.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_398.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_399.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_400.wav,radio-vocal-disengage-i-repeat-disengage.wav,ak-47-firing-8760.wav
-noisy_401.wav,radio-vocal-disengage-i-repeat-disengage.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_402.wav,radio-vocal-disengage-i-repeat-disengage.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_403.wav,radio-vocal-disengage-i-repeat-disengage.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_404.wav,radio-vocal-disengage-i-repeat-disengage.wav,f-106-fly-by-98385.wav
-noisy_405.wav,radio-vocal-disengage-i-repeat-disengage.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_406.wav,radio-vocal-disengage-i-repeat-disengage.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_407.wav,radio-vocal-disengage-i-repeat-disengage.wav,helicopter-flying-over-245480.wav
-noisy_408.wav,radio-vocal-disengage-i-repeat-disengage.wav,helicopter-propeller-sound.wav
-noisy_409.wav,radio-vocal-disengage-i-repeat-disengage.wav,jet-plane-fly-by-369631.wav
-noisy_410.wav,radio-vocal-disengage-i-repeat-disengage.wav,jet-turbine-noise-53845.wav
-noisy_411.wav,radio-vocal-disengage-i-repeat-disengage.wav,machine-gun-381969.wav
-noisy_412.wav,radio-vocal-disengage-i-repeat-disengage.wav,military-vocals-78141.wav
-noisy_413.wav,radio-vocal-disengage-i-repeat-disengage.wav,submarine-alarm-sound.wav
-noisy_414.wav,radio-vocal-disengage-i-repeat-disengage.wav,tank-moving-143104.wav
-noisy_415.wav,radio-vocal-disengage-i-repeat-disengage.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_416.wav,radio-vocal-disengage-i-repeat-disengage.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_417.wav,radio-vocal-disengage-i-repeat-disengage.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_418.wav,radio-vocal-disengage-i-repeat-disengage.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_419.wav,radio-vocal-disengage-i-repeat-disengage.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_420.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,ak-47-firing-8760.wav
-noisy_421.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_422.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_423.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_424.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,f-106-fly-by-98385.wav
-noisy_425.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_426.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_427.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,helicopter-flying-over-245480.wav
-noisy_428.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,helicopter-propeller-sound.wav
-noisy_429.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,jet-plane-fly-by-369631.wav
-noisy_430.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,jet-turbine-noise-53845.wav
-noisy_431.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,machine-gun-381969.wav
-noisy_432.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,military-vocals-78141.wav
-noisy_433.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,submarine-alarm-sound.wav
-noisy_434.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,tank-moving-143104.wav
-noisy_435.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_436.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_437.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_438.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_439.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_440.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,ak-47-firing-8760.wav
-noisy_441.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_442.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_443.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_444.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,f-106-fly-by-98385.wav
-noisy_445.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_446.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_447.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,helicopter-flying-over-245480.wav
-noisy_448.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,helicopter-propeller-sound.wav
-noisy_449.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,jet-plane-fly-by-369631.wav
-noisy_450.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,jet-turbine-noise-53845.wav
-noisy_451.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,machine-gun-381969.wav
-noisy_452.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,military-vocals-78141.wav
-noisy_453.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,submarine-alarm-sound.wav
-noisy_454.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,tank-moving-143104.wav
-noisy_455.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_456.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_457.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_458.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_459.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_460.wav,radio-vocal-spotted-enemy-tanks-north.wav,ak-47-firing-8760.wav
-noisy_461.wav,radio-vocal-spotted-enemy-tanks-north.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_462.wav,radio-vocal-spotted-enemy-tanks-north.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_463.wav,radio-vocal-spotted-enemy-tanks-north.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_464.wav,radio-vocal-spotted-enemy-tanks-north.wav,f-106-fly-by-98385.wav
-noisy_465.wav,radio-vocal-spotted-enemy-tanks-north.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_466.wav,radio-vocal-spotted-enemy-tanks-north.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_467.wav,radio-vocal-spotted-enemy-tanks-north.wav,helicopter-flying-over-245480.wav
-noisy_468.wav,radio-vocal-spotted-enemy-tanks-north.wav,helicopter-propeller-sound.wav
-noisy_469.wav,radio-vocal-spotted-enemy-tanks-north.wav,jet-plane-fly-by-369631.wav
-noisy_470.wav,radio-vocal-spotted-enemy-tanks-north.wav,jet-turbine-noise-53845.wav
-noisy_471.wav,radio-vocal-spotted-enemy-tanks-north.wav,machine-gun-381969.wav
-noisy_472.wav,radio-vocal-spotted-enemy-tanks-north.wav,military-vocals-78141.wav
-noisy_473.wav,radio-vocal-spotted-enemy-tanks-north.wav,submarine-alarm-sound.wav
-noisy_474.wav,radio-vocal-spotted-enemy-tanks-north.wav,tank-moving-143104.wav
-noisy_475.wav,radio-vocal-spotted-enemy-tanks-north.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_476.wav,radio-vocal-spotted-enemy-tanks-north.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_477.wav,radio-vocal-spotted-enemy-tanks-north.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_478.wav,radio-vocal-spotted-enemy-tanks-north.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_479.wav,radio-vocal-spotted-enemy-tanks-north.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_480.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,ak-47-firing-8760.wav
-noisy_481.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_482.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_483.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_484.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,f-106-fly-by-98385.wav
-noisy_485.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_486.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_487.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,helicopter-flying-over-245480.wav
-noisy_488.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,helicopter-propeller-sound.wav
-noisy_489.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,jet-plane-fly-by-369631.wav
-noisy_490.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,jet-turbine-noise-53845.wav
-noisy_491.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,machine-gun-381969.wav
-noisy_492.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,military-vocals-78141.wav
-noisy_493.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,submarine-alarm-sound.wav
-noisy_494.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,tank-moving-143104.wav
-noisy_495.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_496.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_497.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_498.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_499.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_500.wav,ricardo.wav,ak-47-firing-8760.wav
-noisy_501.wav,ricardo.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_502.wav,ricardo.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_503.wav,ricardo.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_504.wav,ricardo.wav,f-106-fly-by-98385.wav
-noisy_505.wav,ricardo.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_506.wav,ricardo.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_507.wav,ricardo.wav,helicopter-flying-over-245480.wav
-noisy_508.wav,ricardo.wav,helicopter-propeller-sound.wav
-noisy_509.wav,ricardo.wav,jet-plane-fly-by-369631.wav
-noisy_510.wav,ricardo.wav,jet-turbine-noise-53845.wav
-noisy_511.wav,ricardo.wav,machine-gun-381969.wav
-noisy_512.wav,ricardo.wav,military-vocals-78141.wav
-noisy_513.wav,ricardo.wav,submarine-alarm-sound.wav
-noisy_514.wav,ricardo.wav,tank-moving-143104.wav
-noisy_515.wav,ricardo.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_516.wav,ricardo.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_517.wav,ricardo.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_518.wav,ricardo.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_519.wav,ricardo.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_520.wav,this-is-not-fox-company.wav,ak-47-firing-8760.wav
-noisy_521.wav,this-is-not-fox-company.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_522.wav,this-is-not-fox-company.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_523.wav,this-is-not-fox-company.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_524.wav,this-is-not-fox-company.wav,f-106-fly-by-98385.wav
-noisy_525.wav,this-is-not-fox-company.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_526.wav,this-is-not-fox-company.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_527.wav,this-is-not-fox-company.wav,helicopter-flying-over-245480.wav
-noisy_528.wav,this-is-not-fox-company.wav,helicopter-propeller-sound.wav
-noisy_529.wav,this-is-not-fox-company.wav,jet-plane-fly-by-369631.wav
-noisy_530.wav,this-is-not-fox-company.wav,jet-turbine-noise-53845.wav
-noisy_531.wav,this-is-not-fox-company.wav,machine-gun-381969.wav
-noisy_532.wav,this-is-not-fox-company.wav,military-vocals-78141.wav
-noisy_533.wav,this-is-not-fox-company.wav,submarine-alarm-sound.wav
-noisy_534.wav,this-is-not-fox-company.wav,tank-moving-143104.wav
-noisy_535.wav,this-is-not-fox-company.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_536.wav,this-is-not-fox-company.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_537.wav,this-is-not-fox-company.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_538.wav,this-is-not-fox-company.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_539.wav,this-is-not-fox-company.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_540.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,ak-47-firing-8760.wav
-noisy_541.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_542.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_543.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_544.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,f-106-fly-by-98385.wav
-noisy_545.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_546.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_547.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,helicopter-flying-over-245480.wav
-noisy_548.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,helicopter-propeller-sound.wav
-noisy_549.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,jet-plane-fly-by-369631.wav
-noisy_550.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,jet-turbine-noise-53845.wav
-noisy_551.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,machine-gun-381969.wav
-noisy_552.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,military-vocals-78141.wav
-noisy_553.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,submarine-alarm-sound.wav
-noisy_554.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,tank-moving-143104.wav
-noisy_555.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_556.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_557.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_558.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_559.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_560.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,ak-47-firing-8760.wav
-noisy_561.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_562.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_563.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_564.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,f-106-fly-by-98385.wav
-noisy_565.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_566.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_567.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,helicopter-flying-over-245480.wav
-noisy_568.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,helicopter-propeller-sound.wav
-noisy_569.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,jet-plane-fly-by-369631.wav
-noisy_570.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,jet-turbine-noise-53845.wav
-noisy_571.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,machine-gun-381969.wav
-noisy_572.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,military-vocals-78141.wav
-noisy_573.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,submarine-alarm-sound.wav
-noisy_574.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,tank-moving-143104.wav
-noisy_575.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_576.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_577.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_578.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_579.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
-noisy_580.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,ak-47-firing-8760.wav
-noisy_581.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,discharged-projectile-explodes-in-the-distance.wav
-noisy_582.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,door-drop-saving-private-ryan-dday-beach-landing-normandy.wav
-noisy_583.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,dropped-a-bomb-and-it-exploded (1).wav
-noisy_584.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,f-106-fly-by-98385.wav
-noisy_585.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,gun-shots-from-a-distance-8-39860.wav
-noisy_586.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav
-noisy_587.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,helicopter-flying-over-245480.wav
-noisy_588.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,helicopter-propeller-sound.wav
-noisy_589.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,jet-plane-fly-by-369631.wav
-noisy_590.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,jet-turbine-noise-53845.wav
-noisy_591.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,machine-gun-381969.wav
-noisy_592.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,military-vocals-78141.wav
-noisy_593.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,submarine-alarm-sound.wav
-noisy_594.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,tank-moving-143104.wav
-noisy_595.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,the-projectile-flies-past-and-explodes-with-a-roar.wav
-noisy_596.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,the-sound-of-a-helicopter-crashing-on-the-rocks.wav
-noisy_597.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav
-noisy_598.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,the-sound-of-explosions-during-the-bombing.wav
-noisy_599.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,world-war-1-trench-warfare-battlefield-sounds-6744.wav
+noisy_file,clean_file,noise_file,snr_db
+noisy_0_72e458.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,ak-12_7sec.wav,4.66
+noisy_1_512fe5.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,ak-47_7sec.wav,4.28
+noisy_2_411e0d.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,beretta-92_7sec.wav,4.6
+noisy_3_40dcd5.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,daewoo-k2_7sec.wav,0.27
+noisy_4_b59d41.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,desert-eagle_7sec.wav,4.96
+noisy_5_1f2adf.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,3.41
+noisy_6_d606e5.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,double-barrel-shotgun_7sec.wav,-1.29
+noisy_7_775651.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,dp-27-lmg_7sec.wav,0.05
+noisy_8_40ed87.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,f-106-fly-by-98385 (mp3cut.net).wav,-0.75
+noisy_9_fe1f3c.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,fn-p90_7sec (mp3cut.net).wav,4.8
+noisy_10_a009aa.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,fn-scar_7sec.wav,0.96
+noisy_11_a77bba.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,gun-shots-from-a-distance-8-39860.wav,4.36
+noisy_12_479224.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,3.46
+noisy_13_ab762b.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,3.9
+noisy_14_17e52c.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,2.18
+noisy_15_fa0495.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,1.29
+noisy_16_cb4bb1.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,helicopter-propeller-sound.wav,3.82
+noisy_17_c06a93.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,hk-g36c_7sec.wav,-0.97
+noisy_18_53ecb7.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,hk-ump45_7sec.wav,-1.35
+noisy_19_430e5b.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,kriss-vector_7sec.wav,4.31
+noisy_20_ac9519.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,m16_7sec.wav,1.14
+noisy_21_1f750e.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,machine-gun-381969 (mp3cut.net).wav,0.97
+noisy_22_31fb0d.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,mini-14_7sec (mp3cut.net).wav,-0.74
+noisy_23_30892b.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,steyr-aug_7sec.wav,1.38
+noisy_24_3ca554.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,submarine-alarm-sound.wav,2.07
+noisy_25_a45ab3.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,tank-moving-143104.wav,4.14
+noisy_26_8dbf3c.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,4.27
+noisy_27_cb008e.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,0.11
+noisy_28_329517.wav,15377__m_colon_o__gwbush-the-us-has-no-rights.wav,the-sound-of-explosions-during-the-bombing.wav,3.63
+noisy_29_96fd3c.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,ak-12_7sec.wav,3.96
+noisy_30_2f345c.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,ak-47_7sec.wav,-0.43
+noisy_31_304559.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,beretta-92_7sec.wav,2.54
+noisy_32_8807a9.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,daewoo-k2_7sec.wav,-0.62
+noisy_33_9faf52.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,desert-eagle_7sec.wav,3.43
+noisy_34_cd2202.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,1.18
+noisy_35_776468.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,double-barrel-shotgun_7sec.wav,2.24
+noisy_36_146e81.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,dp-27-lmg_7sec.wav,-1.75
+noisy_37_303144.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,f-106-fly-by-98385 (mp3cut.net).wav,0.95
+noisy_38_e32afd.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,fn-p90_7sec (mp3cut.net).wav,2.5
+noisy_39_b70565.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,fn-scar_7sec.wav,2.33
+noisy_40_7c66bb.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,gun-shots-from-a-distance-8-39860.wav,2.93
+noisy_41_6a7412.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,2.09
+noisy_42_cdbb8e.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.76
+noisy_43_3dc84f.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,0.21
+noisy_44_f2e068.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,2.95
+noisy_45_d20efa.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,helicopter-propeller-sound.wav,0.39
+noisy_46_65dc02.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,hk-g36c_7sec.wav,-0.36
+noisy_47_ef0661.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,hk-ump45_7sec.wav,3.63
+noisy_48_d579e2.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,kriss-vector_7sec.wav,-1.49
+noisy_49_2d410d.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,m16_7sec.wav,1.45
+noisy_50_75e66a.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,machine-gun-381969 (mp3cut.net).wav,0.46
+noisy_51_976cef.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,mini-14_7sec (mp3cut.net).wav,-1.49
+noisy_52_c9228f.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,steyr-aug_7sec.wav,-1.61
+noisy_53_6c637d.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,submarine-alarm-sound.wav,-0.7
+noisy_54_ed7c3b.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,tank-moving-143104.wav,3.01
+noisy_55_4b4a86.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,-0.69
+noisy_56_0f48a4.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,3.33
+noisy_57_e60893.wav,15378__m_colon_o__gwbush-not-take-advantage.wav,the-sound-of-explosions-during-the-bombing.wav,-1.88
+noisy_58_55874c.wav,161493__brandontgn__stand-clear-of-the-doors.wav,ak-12_7sec.wav,1.33
+noisy_59_d75187.wav,161493__brandontgn__stand-clear-of-the-doors.wav,ak-47_7sec.wav,3.18
+noisy_60_bdf83f.wav,161493__brandontgn__stand-clear-of-the-doors.wav,beretta-92_7sec.wav,0.3
+noisy_61_699870.wav,161493__brandontgn__stand-clear-of-the-doors.wav,daewoo-k2_7sec.wav,-0.25
+noisy_62_42536a.wav,161493__brandontgn__stand-clear-of-the-doors.wav,desert-eagle_7sec.wav,4.2
+noisy_63_460828.wav,161493__brandontgn__stand-clear-of-the-doors.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,4.88
+noisy_64_bf9346.wav,161493__brandontgn__stand-clear-of-the-doors.wav,double-barrel-shotgun_7sec.wav,1.92
+noisy_65_83b91c.wav,161493__brandontgn__stand-clear-of-the-doors.wav,dp-27-lmg_7sec.wav,4.72
+noisy_66_26b4d7.wav,161493__brandontgn__stand-clear-of-the-doors.wav,f-106-fly-by-98385 (mp3cut.net).wav,1.38
+noisy_67_a22898.wav,161493__brandontgn__stand-clear-of-the-doors.wav,fn-p90_7sec (mp3cut.net).wav,3.19
+noisy_68_325eb0.wav,161493__brandontgn__stand-clear-of-the-doors.wav,fn-scar_7sec.wav,0.64
+noisy_69_3f2faf.wav,161493__brandontgn__stand-clear-of-the-doors.wav,gun-shots-from-a-distance-8-39860.wav,-0.75
+noisy_70_c2088f.wav,161493__brandontgn__stand-clear-of-the-doors.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,1.67
+noisy_71_87e66e.wav,161493__brandontgn__stand-clear-of-the-doors.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.41
+noisy_72_42e499.wav,161493__brandontgn__stand-clear-of-the-doors.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-0.91
+noisy_73_f8eeb9.wav,161493__brandontgn__stand-clear-of-the-doors.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,4.08
+noisy_74_70a7a9.wav,161493__brandontgn__stand-clear-of-the-doors.wav,helicopter-propeller-sound.wav,4.5
+noisy_75_5ba864.wav,161493__brandontgn__stand-clear-of-the-doors.wav,hk-g36c_7sec.wav,4.63
+noisy_76_43d640.wav,161493__brandontgn__stand-clear-of-the-doors.wav,hk-ump45_7sec.wav,1.94
+noisy_77_e6530a.wav,161493__brandontgn__stand-clear-of-the-doors.wav,kriss-vector_7sec.wav,4.27
+noisy_78_9a689c.wav,161493__brandontgn__stand-clear-of-the-doors.wav,m16_7sec.wav,0.68
+noisy_79_6950ad.wav,161493__brandontgn__stand-clear-of-the-doors.wav,machine-gun-381969 (mp3cut.net).wav,3.14
+noisy_80_74a35d.wav,161493__brandontgn__stand-clear-of-the-doors.wav,mini-14_7sec (mp3cut.net).wav,1.72
+noisy_81_6c3fec.wav,161493__brandontgn__stand-clear-of-the-doors.wav,steyr-aug_7sec.wav,3.82
+noisy_82_fc33b8.wav,161493__brandontgn__stand-clear-of-the-doors.wav,submarine-alarm-sound.wav,1.18
+noisy_83_120b4e.wav,161493__brandontgn__stand-clear-of-the-doors.wav,tank-moving-143104.wav,1.81
+noisy_84_00867e.wav,161493__brandontgn__stand-clear-of-the-doors.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,2.0
+noisy_85_629402.wav,161493__brandontgn__stand-clear-of-the-doors.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,4.02
+noisy_86_eda2fb.wav,161493__brandontgn__stand-clear-of-the-doors.wav,the-sound-of-explosions-during-the-bombing.wav,-1.57
+noisy_87_d4d7ed.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,ak-12_7sec.wav,-1.08
+noisy_88_49e8f0.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,ak-47_7sec.wav,-0.49
+noisy_89_94e0fd.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,beretta-92_7sec.wav,4.95
+noisy_90_02cf91.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,daewoo-k2_7sec.wav,1.79
+noisy_91_926f85.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,desert-eagle_7sec.wav,1.57
+noisy_92_3ef93c.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,2.31
+noisy_93_3a4f70.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,double-barrel-shotgun_7sec.wav,3.71
+noisy_94_a43d77.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,dp-27-lmg_7sec.wav,4.84
+noisy_95_64128f.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,f-106-fly-by-98385 (mp3cut.net).wav,0.0
+noisy_96_79130a.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,fn-p90_7sec (mp3cut.net).wav,2.08
+noisy_97_be7319.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,fn-scar_7sec.wav,4.37
+noisy_98_e9d5db.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,gun-shots-from-a-distance-8-39860.wav,4.74
+noisy_99_6071a5.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,1.57
+noisy_100_16cfb7.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-0.26
+noisy_101_d3ac94.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,2.17
+noisy_102_4bd44a.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,4.3
+noisy_103_b00753.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,helicopter-propeller-sound.wav,3.47
+noisy_104_cd125d.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,hk-g36c_7sec.wav,-0.4
+noisy_105_634bfc.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,hk-ump45_7sec.wav,3.32
+noisy_106_4bc1cf.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,kriss-vector_7sec.wav,-1.63
+noisy_107_cef3d8.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,m16_7sec.wav,1.0
+noisy_108_381cfc.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,machine-gun-381969 (mp3cut.net).wav,4.57
+noisy_109_53009d.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,mini-14_7sec (mp3cut.net).wav,4.63
+noisy_110_3972f3.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,steyr-aug_7sec.wav,2.18
+noisy_111_d1e8f5.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,submarine-alarm-sound.wav,3.67
+noisy_112_71f325.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,tank-moving-143104.wav,1.4
+noisy_113_cb6e86.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,3.14
+noisy_114_659f7d.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-0.85
+noisy_115_d8870a.wav,200307__anthonychan0__enemy-boat-spotted-low (1).wav,the-sound-of-explosions-during-the-bombing.wav,-0.32
+noisy_116_d95f06.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,ak-12_7sec.wav,0.99
+noisy_117_2203f5.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,ak-47_7sec.wav,1.03
+noisy_118_c25410.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,beretta-92_7sec.wav,-0.96
+noisy_119_ae5056.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,daewoo-k2_7sec.wav,2.74
+noisy_120_fb46d0.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,desert-eagle_7sec.wav,4.88
+noisy_121_e1416c.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,-0.69
+noisy_122_39921a.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,double-barrel-shotgun_7sec.wav,-1.5
+noisy_123_9a3080.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,dp-27-lmg_7sec.wav,2.82
+noisy_124_223941.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,f-106-fly-by-98385 (mp3cut.net).wav,4.33
+noisy_125_8fbafc.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,fn-p90_7sec (mp3cut.net).wav,3.74
+noisy_126_bf6dd6.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,fn-scar_7sec.wav,1.06
+noisy_127_1678ef.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,gun-shots-from-a-distance-8-39860.wav,0.56
+noisy_128_3214b5.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,3.75
+noisy_129_64cb34.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-0.39
+noisy_130_1d452d.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,2.19
+noisy_131_4b2f99.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,4.72
+noisy_132_9c11fa.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,helicopter-propeller-sound.wav,-0.45
+noisy_133_16d496.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,hk-g36c_7sec.wav,-0.47
+noisy_134_8ca09a.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,hk-ump45_7sec.wav,-0.99
+noisy_135_a00de0.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,kriss-vector_7sec.wav,0.22
+noisy_136_ace063.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,m16_7sec.wav,-0.36
+noisy_137_4642bc.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,machine-gun-381969 (mp3cut.net).wav,2.47
+noisy_138_7e8356.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,mini-14_7sec (mp3cut.net).wav,-1.46
+noisy_139_0bc04a.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,steyr-aug_7sec.wav,-0.01
+noisy_140_b50485.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,submarine-alarm-sound.wav,4.03
+noisy_141_763a56.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,tank-moving-143104.wav,4.46
+noisy_142_ffe68c.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.96
+noisy_143_eb8a35.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,3.77
+noisy_144_9a8b43.wav,440560_tender_buttons_this-means-clearness (mp3cut.net).wav,the-sound-of-explosions-during-the-bombing.wav,4.76
+noisy_145_5d3def.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,ak-12_7sec.wav,1.08
+noisy_146_5b419a.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,ak-47_7sec.wav,2.74
+noisy_147_507a28.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,beretta-92_7sec.wav,1.48
+noisy_148_9a1524.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,daewoo-k2_7sec.wav,3.62
+noisy_149_3781f7.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,desert-eagle_7sec.wav,-0.61
+noisy_150_c7b64d.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,2.88
+noisy_151_27314e.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,double-barrel-shotgun_7sec.wav,-0.63
+noisy_152_e00879.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,dp-27-lmg_7sec.wav,3.5
+noisy_153_b310b2.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,f-106-fly-by-98385 (mp3cut.net).wav,-1.05
+noisy_154_d82d1e.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,fn-p90_7sec (mp3cut.net).wav,1.55
+noisy_155_902d0c.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,fn-scar_7sec.wav,3.18
+noisy_156_f1747c.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,gun-shots-from-a-distance-8-39860.wav,3.49
+noisy_157_87a11f.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,4.2
+noisy_158_4813c4.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,3.41
+noisy_159_a403dc.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,3.3
+noisy_160_3aec31.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,3.42
+noisy_161_51d60e.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,helicopter-propeller-sound.wav,0.03
+noisy_162_cc5c69.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,hk-g36c_7sec.wav,-1.59
+noisy_163_47914a.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,hk-ump45_7sec.wav,0.32
+noisy_164_156b0e.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,kriss-vector_7sec.wav,2.57
+noisy_165_aa5c90.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,m16_7sec.wav,-0.82
+noisy_166_a696d7.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,machine-gun-381969 (mp3cut.net).wav,2.7
+noisy_167_b3db11.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,mini-14_7sec (mp3cut.net).wav,3.68
+noisy_168_a96e1f.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,steyr-aug_7sec.wav,1.49
+noisy_169_f72b99.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,submarine-alarm-sound.wav,2.24
+noisy_170_39af65.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,tank-moving-143104.wav,2.08
+noisy_171_bd88ff.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,3.48
+noisy_172_b4eddd.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,1.07
+noisy_173_7a8621.wav,520604__desibloke__mazhab-nahin-sikhata-urdu-poetry-from-india.wav,the-sound-of-explosions-during-the-bombing.wav,4.5
+noisy_174_0bccff.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,ak-12_7sec.wav,1.56
+noisy_175_a66bca.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,ak-47_7sec.wav,1.45
+noisy_176_f7dd6f.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,beretta-92_7sec.wav,4.38
+noisy_177_56abbb.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,daewoo-k2_7sec.wav,-1.61
+noisy_178_a21ab1.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,desert-eagle_7sec.wav,4.94
+noisy_179_1b6b41.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,1.71
+noisy_180_2cfa50.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,double-barrel-shotgun_7sec.wav,3.93
+noisy_181_80e65d.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,dp-27-lmg_7sec.wav,4.93
+noisy_182_22f311.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,f-106-fly-by-98385 (mp3cut.net).wav,4.95
+noisy_183_d90f25.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,fn-p90_7sec (mp3cut.net).wav,1.08
+noisy_184_7d3b7f.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,fn-scar_7sec.wav,3.07
+noisy_185_71fe56.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,gun-shots-from-a-distance-8-39860.wav,0.45
+noisy_186_c98927.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,2.37
+noisy_187_0dc9b0.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.21
+noisy_188_3d73e5.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,2.9
+noisy_189_40dad6.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,3.68
+noisy_190_48b0d7.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,helicopter-propeller-sound.wav,2.49
+noisy_191_73ef5f.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,hk-g36c_7sec.wav,-0.96
+noisy_192_e81f62.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,hk-ump45_7sec.wav,-1.79
+noisy_193_825667.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,kriss-vector_7sec.wav,2.92
+noisy_194_7061c8.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,m16_7sec.wav,2.16
+noisy_195_ba83a4.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,machine-gun-381969 (mp3cut.net).wav,2.38
+noisy_196_e9cdbd.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,mini-14_7sec (mp3cut.net).wav,1.31
+noisy_197_2f46e2.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,steyr-aug_7sec.wav,3.01
+noisy_198_34a3b2.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,submarine-alarm-sound.wav,4.0
+noisy_199_b934e4.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,tank-moving-143104.wav,2.42
+noisy_200_4fc1c7.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.1
+noisy_201_041724.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,0.75
+noisy_202_a24537.wav,555405__meghrajbharadwaj__thank-you-in-hindi.wav,the-sound-of-explosions-during-the-bombing.wav,3.64
+noisy_203_0cd41e.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,ak-12_7sec.wav,0.14
+noisy_204_a49e2c.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,ak-47_7sec.wav,0.48
+noisy_205_60122d.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,beretta-92_7sec.wav,4.36
+noisy_206_fc2bf4.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,daewoo-k2_7sec.wav,0.51
+noisy_207_6a2644.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,desert-eagle_7sec.wav,0.51
+noisy_208_cf15fe.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,4.5
+noisy_209_91b69c.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,double-barrel-shotgun_7sec.wav,1.09
+noisy_210_cd3c4b.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,dp-27-lmg_7sec.wav,4.92
+noisy_211_f618fb.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,f-106-fly-by-98385 (mp3cut.net).wav,4.29
+noisy_212_3d5b30.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,fn-p90_7sec (mp3cut.net).wav,-0.95
+noisy_213_2527d8.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,fn-scar_7sec.wav,-1.27
+noisy_214_faf555.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,gun-shots-from-a-distance-8-39860.wav,2.59
+noisy_215_fa217e.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,-0.48
+noisy_216_364c4d.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.54
+noisy_217_02eeba.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,1.37
+noisy_218_e8a7f3.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,-0.44
+noisy_219_780005.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,helicopter-propeller-sound.wav,2.82
+noisy_220_a5b4b2.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,hk-g36c_7sec.wav,2.96
+noisy_221_3ddffe.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,hk-ump45_7sec.wav,-0.09
+noisy_222_41bd3a.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,kriss-vector_7sec.wav,-1.52
+noisy_223_a60530.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,m16_7sec.wav,-1.8
+noisy_224_86d3d3.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,machine-gun-381969 (mp3cut.net).wav,2.02
+noisy_225_056c1f.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,mini-14_7sec (mp3cut.net).wav,-0.4
+noisy_226_862ab6.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,steyr-aug_7sec.wav,2.93
+noisy_227_29ed97.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,submarine-alarm-sound.wav,4.9
+noisy_228_242f3c.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,tank-moving-143104.wav,4.89
+noisy_229_1bc7cd.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,3.36
+noisy_230_1022f8.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-1.65
+noisy_231_4db203.wav,639447_laurenponder_communication-voicelines-woman (mp3cut.net).wav,the-sound-of-explosions-during-the-bombing.wav,0.19
+noisy_232_12d3dd.wav,643195__levi_cunha__police_radio_portuguese.wav,ak-12_7sec.wav,-1.46
+noisy_233_a3d6da.wav,643195__levi_cunha__police_radio_portuguese.wav,ak-47_7sec.wav,0.96
+noisy_234_43fe16.wav,643195__levi_cunha__police_radio_portuguese.wav,beretta-92_7sec.wav,1.54
+noisy_235_41e0c8.wav,643195__levi_cunha__police_radio_portuguese.wav,daewoo-k2_7sec.wav,3.19
+noisy_236_3243e6.wav,643195__levi_cunha__police_radio_portuguese.wav,desert-eagle_7sec.wav,3.53
+noisy_237_e32210.wav,643195__levi_cunha__police_radio_portuguese.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,0.97
+noisy_238_53f843.wav,643195__levi_cunha__police_radio_portuguese.wav,double-barrel-shotgun_7sec.wav,0.93
+noisy_239_a3b4d0.wav,643195__levi_cunha__police_radio_portuguese.wav,dp-27-lmg_7sec.wav,1.88
+noisy_240_afd2fe.wav,643195__levi_cunha__police_radio_portuguese.wav,f-106-fly-by-98385 (mp3cut.net).wav,-0.26
+noisy_241_b62151.wav,643195__levi_cunha__police_radio_portuguese.wav,fn-p90_7sec (mp3cut.net).wav,3.27
+noisy_242_ab1840.wav,643195__levi_cunha__police_radio_portuguese.wav,fn-scar_7sec.wav,1.12
+noisy_243_6ee5fc.wav,643195__levi_cunha__police_radio_portuguese.wav,gun-shots-from-a-distance-8-39860.wav,4.75
+noisy_244_8caf7e.wav,643195__levi_cunha__police_radio_portuguese.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,3.26
+noisy_245_80de4a.wav,643195__levi_cunha__police_radio_portuguese.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,3.93
+noisy_246_d13cce.wav,643195__levi_cunha__police_radio_portuguese.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,1.67
+noisy_247_47dc9d.wav,643195__levi_cunha__police_radio_portuguese.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,-0.61
+noisy_248_bfbcf0.wav,643195__levi_cunha__police_radio_portuguese.wav,helicopter-propeller-sound.wav,-0.01
+noisy_249_a80a3a.wav,643195__levi_cunha__police_radio_portuguese.wav,hk-g36c_7sec.wav,2.91
+noisy_250_addecf.wav,643195__levi_cunha__police_radio_portuguese.wav,hk-ump45_7sec.wav,0.41
+noisy_251_606593.wav,643195__levi_cunha__police_radio_portuguese.wav,kriss-vector_7sec.wav,3.15
+noisy_252_165aa6.wav,643195__levi_cunha__police_radio_portuguese.wav,m16_7sec.wav,-1.12
+noisy_253_8fe385.wav,643195__levi_cunha__police_radio_portuguese.wav,machine-gun-381969 (mp3cut.net).wav,2.11
+noisy_254_c0cfa7.wav,643195__levi_cunha__police_radio_portuguese.wav,mini-14_7sec (mp3cut.net).wav,2.17
+noisy_255_180dcc.wav,643195__levi_cunha__police_radio_portuguese.wav,steyr-aug_7sec.wav,0.34
+noisy_256_512a13.wav,643195__levi_cunha__police_radio_portuguese.wav,submarine-alarm-sound.wav,-0.01
+noisy_257_c868a8.wav,643195__levi_cunha__police_radio_portuguese.wav,tank-moving-143104.wav,-1.6
+noisy_258_ec76d7.wav,643195__levi_cunha__police_radio_portuguese.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.35
+noisy_259_868f41.wav,643195__levi_cunha__police_radio_portuguese.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,1.62
+noisy_260_5a3f3f.wav,643195__levi_cunha__police_radio_portuguese.wav,the-sound-of-explosions-during-the-bombing.wav,-0.7
+noisy_261_1f5744.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,ak-12_7sec.wav,3.03
+noisy_262_aba63c.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,ak-47_7sec.wav,0.29
+noisy_263_7d546e.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,beretta-92_7sec.wav,4.35
+noisy_264_c6db3d.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,daewoo-k2_7sec.wav,2.82
+noisy_265_4759ea.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,desert-eagle_7sec.wav,-0.8
+noisy_266_97c564.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,2.44
+noisy_267_2aa014.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,double-barrel-shotgun_7sec.wav,-1.08
+noisy_268_cee3f7.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,dp-27-lmg_7sec.wav,0.51
+noisy_269_57cde1.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,f-106-fly-by-98385 (mp3cut.net).wav,2.17
+noisy_270_255358.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,fn-p90_7sec (mp3cut.net).wav,4.39
+noisy_271_a28de4.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,fn-scar_7sec.wav,0.68
+noisy_272_13fe07.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,gun-shots-from-a-distance-8-39860.wav,0.87
+noisy_273_118069.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,-0.72
+noisy_274_30e88d.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,3.46
+noisy_275_2bb54f.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-0.74
+noisy_276_0d2f5b.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,-1.34
+noisy_277_b99fc0.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,helicopter-propeller-sound.wav,3.19
+noisy_278_dc749d.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,hk-g36c_7sec.wav,-0.27
+noisy_279_0c8140.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,hk-ump45_7sec.wav,4.2
+noisy_280_27de15.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,kriss-vector_7sec.wav,1.45
+noisy_281_04b6d2.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,m16_7sec.wav,2.07
+noisy_282_41dfc2.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,machine-gun-381969 (mp3cut.net).wav,-1.74
+noisy_283_00e609.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,mini-14_7sec (mp3cut.net).wav,-1.7
+noisy_284_d433e7.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,steyr-aug_7sec.wav,-0.53
+noisy_285_5a5d4b.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,submarine-alarm-sound.wav,-0.85
+noisy_286_0a6275.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,tank-moving-143104.wav,3.43
+noisy_287_500ff7.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.06
+noisy_288_0d8bff.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,1.56
+noisy_289_ffc98b.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (1).wav,the-sound-of-explosions-during-the-bombing.wav,0.61
+noisy_290_95e08c.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,ak-12_7sec.wav,-0.69
+noisy_291_4248c0.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,ak-47_7sec.wav,3.85
+noisy_292_f6c571.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,beretta-92_7sec.wav,3.57
+noisy_293_74db80.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,daewoo-k2_7sec.wav,4.37
+noisy_294_a3f60a.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,desert-eagle_7sec.wav,-1.59
+noisy_295_195ff6.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,2.07
+noisy_296_6d4543.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,double-barrel-shotgun_7sec.wav,1.92
+noisy_297_bb4763.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,dp-27-lmg_7sec.wav,1.63
+noisy_298_a9f9e6.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,f-106-fly-by-98385 (mp3cut.net).wav,-1.06
+noisy_299_2fb65c.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,fn-p90_7sec (mp3cut.net).wav,-1.21
+noisy_300_e7c29f.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,fn-scar_7sec.wav,2.49
+noisy_301_c0cad0.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,gun-shots-from-a-distance-8-39860.wav,0.62
+noisy_302_43075b.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,4.89
+noisy_303_9835d0.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-0.08
+noisy_304_ad4b83.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,4.9
+noisy_305_cbf903.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,2.01
+noisy_306_7b6d2b.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,helicopter-propeller-sound.wav,3.1
+noisy_307_e1a8b7.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,hk-g36c_7sec.wav,1.8
+noisy_308_f9d6e8.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,hk-ump45_7sec.wav,1.93
+noisy_309_3096d1.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,kriss-vector_7sec.wav,0.29
+noisy_310_f9a581.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,m16_7sec.wav,0.8
+noisy_311_535711.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,machine-gun-381969 (mp3cut.net).wav,4.82
+noisy_312_b49672.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,mini-14_7sec (mp3cut.net).wav,2.6
+noisy_313_f5ed8d.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,steyr-aug_7sec.wav,0.23
+noisy_314_c40b54.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,submarine-alarm-sound.wav,0.53
+noisy_315_d27688.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,tank-moving-143104.wav,-0.35
+noisy_316_8b49b5.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.4
+noisy_317_1e6f60.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-1.84
+noisy_318_1c2366.wav,HIN_M_AbhishekS-[AudioTrimmer.com] (2).wav,the-sound-of-explosions-during-the-bombing.wav,1.15
+noisy_319_83f3b8.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,ak-12_7sec.wav,2.62
+noisy_320_9e6f31.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,ak-47_7sec.wav,4.83
+noisy_321_d51618.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,beretta-92_7sec.wav,3.13
+noisy_322_b17b7b.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,daewoo-k2_7sec.wav,3.18
+noisy_323_389039.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,desert-eagle_7sec.wav,0.03
+noisy_324_c67621.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,3.46
+noisy_325_aac64a.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,double-barrel-shotgun_7sec.wav,0.49
+noisy_326_ceb7d6.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,dp-27-lmg_7sec.wav,-1.42
+noisy_327_c81871.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,f-106-fly-by-98385 (mp3cut.net).wav,2.11
+noisy_328_e05f9a.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,fn-p90_7sec (mp3cut.net).wav,2.84
+noisy_329_91af40.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,fn-scar_7sec.wav,0.07
+noisy_330_45f23d.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,gun-shots-from-a-distance-8-39860.wav,4.82
+noisy_331_1f8eab.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,1.2
+noisy_332_2f178b.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-0.36
+noisy_333_22b62d.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,0.68
+noisy_334_9f3f32.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,4.77
+noisy_335_ae6bb9.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,helicopter-propeller-sound.wav,-1.78
+noisy_336_e8618e.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,hk-g36c_7sec.wav,2.64
+noisy_337_a19afc.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,hk-ump45_7sec.wav,3.93
+noisy_338_ecc474.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,kriss-vector_7sec.wav,-1.52
+noisy_339_9abb0a.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,m16_7sec.wav,3.35
+noisy_340_75ba27.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,machine-gun-381969 (mp3cut.net).wav,0.65
+noisy_341_e6565f.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,mini-14_7sec (mp3cut.net).wav,2.1
+noisy_342_715156.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,steyr-aug_7sec.wav,0.82
+noisy_343_a17e21.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,submarine-alarm-sound.wav,-1.34
+noisy_344_e1fc05.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,tank-moving-143104.wav,2.67
+noisy_345_d18acc.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.05
+noisy_346_029550.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-0.6
+noisy_347_0a87c4.wav,HIN_M_AbhishekS-[AudioTrimmer.com].wav,the-sound-of-explosions-during-the-bombing.wav,2.68
+noisy_348_1f7072.wav,HIN_M_AbhishekS.wav,ak-12_7sec.wav,-0.69
+noisy_349_37d3be.wav,HIN_M_AbhishekS.wav,ak-47_7sec.wav,3.88
+noisy_350_7df442.wav,HIN_M_AbhishekS.wav,beretta-92_7sec.wav,2.88
+noisy_351_200eaf.wav,HIN_M_AbhishekS.wav,daewoo-k2_7sec.wav,-1.4
+noisy_352_d0951b.wav,HIN_M_AbhishekS.wav,desert-eagle_7sec.wav,0.52
+noisy_353_350678.wav,HIN_M_AbhishekS.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,0.78
+noisy_354_ffe9cf.wav,HIN_M_AbhishekS.wav,double-barrel-shotgun_7sec.wav,2.11
+noisy_355_f3b170.wav,HIN_M_AbhishekS.wav,dp-27-lmg_7sec.wav,-1.11
+noisy_356_99d7fb.wav,HIN_M_AbhishekS.wav,f-106-fly-by-98385 (mp3cut.net).wav,1.53
+noisy_357_646fb2.wav,HIN_M_AbhishekS.wav,fn-p90_7sec (mp3cut.net).wav,-1.26
+noisy_358_e95b66.wav,HIN_M_AbhishekS.wav,fn-scar_7sec.wav,2.09
+noisy_359_a93093.wav,HIN_M_AbhishekS.wav,gun-shots-from-a-distance-8-39860.wav,0.95
+noisy_360_d81726.wav,HIN_M_AbhishekS.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,2.4
+noisy_361_6ee64c.wav,HIN_M_AbhishekS.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,1.17
+noisy_362_62a5bb.wav,HIN_M_AbhishekS.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-0.6
+noisy_363_97de62.wav,HIN_M_AbhishekS.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,2.38
+noisy_364_d8401f.wav,HIN_M_AbhishekS.wav,helicopter-propeller-sound.wav,2.65
+noisy_365_f014b7.wav,HIN_M_AbhishekS.wav,hk-g36c_7sec.wav,0.68
+noisy_366_d4f229.wav,HIN_M_AbhishekS.wav,hk-ump45_7sec.wav,1.97
+noisy_367_b3965e.wav,HIN_M_AbhishekS.wav,kriss-vector_7sec.wav,-1.47
+noisy_368_f4f3c3.wav,HIN_M_AbhishekS.wav,m16_7sec.wav,-0.7
+noisy_369_7e195c.wav,HIN_M_AbhishekS.wav,machine-gun-381969 (mp3cut.net).wav,-1.12
+noisy_370_4ba49c.wav,HIN_M_AbhishekS.wav,mini-14_7sec (mp3cut.net).wav,1.94
+noisy_371_91a1a4.wav,HIN_M_AbhishekS.wav,steyr-aug_7sec.wav,0.84
+noisy_372_e97cfa.wav,HIN_M_AbhishekS.wav,submarine-alarm-sound.wav,-0.95
+noisy_373_892795.wav,HIN_M_AbhishekS.wav,tank-moving-143104.wav,2.44
+noisy_374_769a1e.wav,HIN_M_AbhishekS.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,3.49
+noisy_375_abc56c.wav,HIN_M_AbhishekS.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-1.85
+noisy_376_747520.wav,HIN_M_AbhishekS.wav,the-sound-of-explosions-during-the-bombing.wav,-1.33
+noisy_377_108160.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,ak-12_7sec.wav,-1.91
+noisy_378_d53a7f.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,ak-47_7sec.wav,-2.0
+noisy_379_344f1c.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,beretta-92_7sec.wav,3.62
+noisy_380_cab91a.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,daewoo-k2_7sec.wav,-1.05
+noisy_381_99b7bf.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,desert-eagle_7sec.wav,-0.26
+noisy_382_10a7fb.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,3.84
+noisy_383_a234db.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,double-barrel-shotgun_7sec.wav,2.79
+noisy_384_2c1e08.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,dp-27-lmg_7sec.wav,-1.5
+noisy_385_eca21c.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,f-106-fly-by-98385 (mp3cut.net).wav,4.96
+noisy_386_fb4ce6.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,fn-p90_7sec (mp3cut.net).wav,1.05
+noisy_387_2d380c.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,fn-scar_7sec.wav,4.24
+noisy_388_a77da6.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,gun-shots-from-a-distance-8-39860.wav,1.41
+noisy_389_7e670c.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,-1.47
+noisy_390_6d7128.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-0.54
+noisy_391_1cdffe.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,3.64
+noisy_392_76c04a.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,2.54
+noisy_393_a8e814.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,helicopter-propeller-sound.wav,3.48
+noisy_394_0a5263.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,hk-g36c_7sec.wav,3.67
+noisy_395_24950c.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,hk-ump45_7sec.wav,1.67
+noisy_396_499ddf.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,kriss-vector_7sec.wav,-0.58
+noisy_397_3eb11c.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,m16_7sec.wav,-1.99
+noisy_398_801699.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,machine-gun-381969 (mp3cut.net).wav,-1.68
+noisy_399_90ad59.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,mini-14_7sec (mp3cut.net).wav,2.09
+noisy_400_ceabbb.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,steyr-aug_7sec.wav,-1.26
+noisy_401_a0574c.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,submarine-alarm-sound.wav,4.44
+noisy_402_7f8eec.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,tank-moving-143104.wav,1.06
+noisy_403_bdd4d1.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,-1.9
+noisy_404_8b8718.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,1.68
+noisy_405_ea06ec.wav,Hindi_F_Deepika-[AudioTrimmer.com] (1).wav,the-sound-of-explosions-during-the-bombing.wav,0.66
+noisy_406_fa0a03.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,ak-12_7sec.wav,1.92
+noisy_407_2910ae.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,ak-47_7sec.wav,0.07
+noisy_408_9b2e76.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,beretta-92_7sec.wav,4.04
+noisy_409_2e6b3d.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,daewoo-k2_7sec.wav,4.32
+noisy_410_deed52.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,desert-eagle_7sec.wav,2.76
+noisy_411_95a6e0.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,0.57
+noisy_412_be1f3f.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,double-barrel-shotgun_7sec.wav,2.79
+noisy_413_c17d66.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,dp-27-lmg_7sec.wav,2.37
+noisy_414_729aa6.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,f-106-fly-by-98385 (mp3cut.net).wav,3.33
+noisy_415_9aa433.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,fn-p90_7sec (mp3cut.net).wav,-0.5
+noisy_416_105468.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,fn-scar_7sec.wav,1.8
+noisy_417_8b58a4.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,gun-shots-from-a-distance-8-39860.wav,4.49
+noisy_418_8f8280.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,4.21
+noisy_419_7ba200.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,3.85
+noisy_420_3df7c4.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,0.72
+noisy_421_a07095.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,-1.2
+noisy_422_f2db74.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,helicopter-propeller-sound.wav,1.49
+noisy_423_6fd1d1.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,hk-g36c_7sec.wav,-1.14
+noisy_424_26fe83.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,hk-ump45_7sec.wav,-0.15
+noisy_425_75130e.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,kriss-vector_7sec.wav,0.84
+noisy_426_e2ab13.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,m16_7sec.wav,3.08
+noisy_427_5cc57b.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,machine-gun-381969 (mp3cut.net).wav,3.47
+noisy_428_e2e553.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,mini-14_7sec (mp3cut.net).wav,-0.76
+noisy_429_76c647.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,steyr-aug_7sec.wav,-0.15
+noisy_430_4c644d.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,submarine-alarm-sound.wav,0.01
+noisy_431_91b7c9.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,tank-moving-143104.wav,3.41
+noisy_432_690c2e.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.87
+noisy_433_1da6fb.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,3.7
+noisy_434_b9a4ec.wav,Hindi_F_Deepika-[AudioTrimmer.com].wav,the-sound-of-explosions-during-the-bombing.wav,2.04
+noisy_435_ea87f8.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,ak-12_7sec.wav,0.46
+noisy_436_0c59fd.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,ak-47_7sec.wav,3.38
+noisy_437_6a40f9.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,beretta-92_7sec.wav,-0.59
+noisy_438_828ae0.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,daewoo-k2_7sec.wav,2.28
+noisy_439_37ef25.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,desert-eagle_7sec.wav,0.2
+noisy_440_0be286.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,-1.11
+noisy_441_d82fd6.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,double-barrel-shotgun_7sec.wav,3.36
+noisy_442_eefe94.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,dp-27-lmg_7sec.wav,0.96
+noisy_443_8478ab.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,f-106-fly-by-98385 (mp3cut.net).wav,3.84
+noisy_444_da61df.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,fn-p90_7sec (mp3cut.net).wav,4.11
+noisy_445_a59f0f.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,fn-scar_7sec.wav,-1.02
+noisy_446_174a24.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,gun-shots-from-a-distance-8-39860.wav,3.03
+noisy_447_4ab8c1.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,1.01
+noisy_448_1ae6a4.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,0.36
+noisy_449_3fe3d8.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-1.96
+noisy_450_cf6b33.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,0.38
+noisy_451_e5edd4.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,helicopter-propeller-sound.wav,3.44
+noisy_452_41180e.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,hk-g36c_7sec.wav,1.08
+noisy_453_48bfdf.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,hk-ump45_7sec.wav,3.07
+noisy_454_bd3427.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,kriss-vector_7sec.wav,-0.49
+noisy_455_4400e1.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,m16_7sec.wav,3.11
+noisy_456_60a6ef.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,machine-gun-381969 (mp3cut.net).wav,1.8
+noisy_457_bf89db.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,mini-14_7sec (mp3cut.net).wav,-1.25
+noisy_458_97a2f9.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,steyr-aug_7sec.wav,3.46
+noisy_459_0bb94a.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,submarine-alarm-sound.wav,0.49
+noisy_460_a2b99e.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,tank-moving-143104.wav,0.01
+noisy_461_77ec10.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,4.89
+noisy_462_ab6b1d.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-0.89
+noisy_463_10638e.wav,ae11-320c-491e-9498-bffdffa1e30b.wav,the-sound-of-explosions-during-the-bombing.wav,2.86
+noisy_464_4fbd04.wav,download (1).wav,ak-12_7sec.wav,0.27
+noisy_465_0c984f.wav,download (1).wav,ak-47_7sec.wav,2.84
+noisy_466_4602c0.wav,download (1).wav,beretta-92_7sec.wav,3.73
+noisy_467_d7282f.wav,download (1).wav,daewoo-k2_7sec.wav,0.11
+noisy_468_618548.wav,download (1).wav,desert-eagle_7sec.wav,0.98
+noisy_469_5c6e9a.wav,download (1).wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,-0.37
+noisy_470_8503f9.wav,download (1).wav,double-barrel-shotgun_7sec.wav,2.23
+noisy_471_1bb4df.wav,download (1).wav,dp-27-lmg_7sec.wav,-0.85
+noisy_472_9bac4e.wav,download (1).wav,f-106-fly-by-98385 (mp3cut.net).wav,3.14
+noisy_473_43c5b9.wav,download (1).wav,fn-p90_7sec (mp3cut.net).wav,2.39
+noisy_474_15ee5a.wav,download (1).wav,fn-scar_7sec.wav,3.54
+noisy_475_c3323a.wav,download (1).wav,gun-shots-from-a-distance-8-39860.wav,-0.06
+noisy_476_a63286.wav,download (1).wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,3.3
+noisy_477_698ddd.wav,download (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.09
+noisy_478_c8cf81.wav,download (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,2.3
+noisy_479_358779.wav,download (1).wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,0.94
+noisy_480_884c6d.wav,download (1).wav,helicopter-propeller-sound.wav,-1.79
+noisy_481_785f53.wav,download (1).wav,hk-g36c_7sec.wav,3.61
+noisy_482_d87a2d.wav,download (1).wav,hk-ump45_7sec.wav,1.19
+noisy_483_048fdd.wav,download (1).wav,kriss-vector_7sec.wav,3.61
+noisy_484_af0b01.wav,download (1).wav,m16_7sec.wav,2.83
+noisy_485_a255da.wav,download (1).wav,machine-gun-381969 (mp3cut.net).wav,-1.93
+noisy_486_86bd44.wav,download (1).wav,mini-14_7sec (mp3cut.net).wav,4.98
+noisy_487_91c937.wav,download (1).wav,steyr-aug_7sec.wav,3.5
+noisy_488_566b5f.wav,download (1).wav,submarine-alarm-sound.wav,2.61
+noisy_489_b2221a.wav,download (1).wav,tank-moving-143104.wav,-1.26
+noisy_490_a57d54.wav,download (1).wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,-1.69
+noisy_491_1217a3.wav,download (1).wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,1.82
+noisy_492_ade738.wav,download (1).wav,the-sound-of-explosions-during-the-bombing.wav,4.87
+noisy_493_6d083c.wav,homealone.wav,ak-12_7sec.wav,3.77
+noisy_494_d2e6f1.wav,homealone.wav,ak-47_7sec.wav,1.51
+noisy_495_9b7681.wav,homealone.wav,beretta-92_7sec.wav,1.77
+noisy_496_d9ef23.wav,homealone.wav,daewoo-k2_7sec.wav,2.29
+noisy_497_6c81b0.wav,homealone.wav,desert-eagle_7sec.wav,4.36
+noisy_498_77819e.wav,homealone.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,0.37
+noisy_499_748768.wav,homealone.wav,double-barrel-shotgun_7sec.wav,-1.86
+noisy_500_d5ea19.wav,homealone.wav,dp-27-lmg_7sec.wav,0.05
+noisy_501_07fb25.wav,homealone.wav,f-106-fly-by-98385 (mp3cut.net).wav,-1.34
+noisy_502_45cd60.wav,homealone.wav,fn-p90_7sec (mp3cut.net).wav,-1.89
+noisy_503_b50160.wav,homealone.wav,fn-scar_7sec.wav,0.44
+noisy_504_3e926e.wav,homealone.wav,gun-shots-from-a-distance-8-39860.wav,3.86
+noisy_505_a60fc0.wav,homealone.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,-1.32
+noisy_506_1d23c0.wav,homealone.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,0.25
+noisy_507_6ff395.wav,homealone.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,0.37
+noisy_508_0630d6.wav,homealone.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,-1.41
+noisy_509_b44a30.wav,homealone.wav,helicopter-propeller-sound.wav,3.48
+noisy_510_3271d6.wav,homealone.wav,hk-g36c_7sec.wav,4.27
+noisy_511_5a5ee3.wav,homealone.wav,hk-ump45_7sec.wav,1.95
+noisy_512_3418f3.wav,homealone.wav,kriss-vector_7sec.wav,-0.49
+noisy_513_e26006.wav,homealone.wav,m16_7sec.wav,2.66
+noisy_514_515965.wav,homealone.wav,machine-gun-381969 (mp3cut.net).wav,2.9
+noisy_515_3fe171.wav,homealone.wav,mini-14_7sec (mp3cut.net).wav,4.52
+noisy_516_966b02.wav,homealone.wav,steyr-aug_7sec.wav,2.27
+noisy_517_760b77.wav,homealone.wav,submarine-alarm-sound.wav,3.63
+noisy_518_ed5f95.wav,homealone.wav,tank-moving-143104.wav,3.65
+noisy_519_f1e7b5.wav,homealone.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,1.45
+noisy_520_3f1e1f.wav,homealone.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-0.13
+noisy_521_691c66.wav,homealone.wav,the-sound-of-explosions-during-the-bombing.wav,-0.53
+noisy_522_6b49fb.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,ak-12_7sec.wav,-0.16
+noisy_523_363d56.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,ak-47_7sec.wav,2.08
+noisy_524_4c92aa.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,beretta-92_7sec.wav,-1.87
+noisy_525_b5c1e1.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,daewoo-k2_7sec.wav,3.95
+noisy_526_05f915.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,desert-eagle_7sec.wav,0.56
+noisy_527_9603d7.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,1.08
+noisy_528_d02d94.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,double-barrel-shotgun_7sec.wav,-1.5
+noisy_529_5046ab.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,dp-27-lmg_7sec.wav,0.52
+noisy_530_a0ae45.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,f-106-fly-by-98385 (mp3cut.net).wav,0.26
+noisy_531_b8c009.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,fn-p90_7sec (mp3cut.net).wav,-0.16
+noisy_532_285a45.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,fn-scar_7sec.wav,0.86
+noisy_533_dbd741.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,gun-shots-from-a-distance-8-39860.wav,1.27
+noisy_534_84cc8a.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,3.15
+noisy_535_df29e6.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,2.81
+noisy_536_725412.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,4.16
+noisy_537_c32df4.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,1.67
+noisy_538_5904aa.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,helicopter-propeller-sound.wav,2.23
+noisy_539_9e9349.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,hk-g36c_7sec.wav,0.86
+noisy_540_667291.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,hk-ump45_7sec.wav,4.65
+noisy_541_84222c.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,kriss-vector_7sec.wav,-1.3
+noisy_542_6d97b7.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,m16_7sec.wav,0.03
+noisy_543_f044de.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,machine-gun-381969 (mp3cut.net).wav,-1.83
+noisy_544_1cd31e.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,mini-14_7sec (mp3cut.net).wav,-1.85
+noisy_545_08ac93.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,steyr-aug_7sec.wav,4.44
+noisy_546_ca65e4.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,submarine-alarm-sound.wav,1.67
+noisy_547_47c737.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,tank-moving-143104.wav,2.06
+noisy_548_bfdcdf.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,4.71
+noisy_549_0e8f3c.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,0.78
+noisy_550_e3ae1e.wav,i-was-here-and-i-was-looking-in-only-brothers-that-i-have-left.wav,the-sound-of-explosions-during-the-bombing.wav,-1.08
+noisy_551_82a7f3.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,ak-12_7sec.wav,-0.87
+noisy_552_900c40.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,ak-47_7sec.wav,-0.43
+noisy_553_2775fe.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,beretta-92_7sec.wav,2.67
+noisy_554_ca85c4.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,daewoo-k2_7sec.wav,3.82
+noisy_555_5685e0.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,desert-eagle_7sec.wav,1.55
+noisy_556_52d6cb.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,2.92
+noisy_557_8cc53a.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,double-barrel-shotgun_7sec.wav,2.84
+noisy_558_be6bee.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,dp-27-lmg_7sec.wav,-0.67
+noisy_559_93d577.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,f-106-fly-by-98385 (mp3cut.net).wav,4.61
+noisy_560_ed7ee0.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,fn-p90_7sec (mp3cut.net).wav,-1.25
+noisy_561_29dd20.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,fn-scar_7sec.wav,0.07
+noisy_562_a724f8.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,gun-shots-from-a-distance-8-39860.wav,3.94
+noisy_563_5b43a1.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,4.66
+noisy_564_8208c7.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,3.73
+noisy_565_2a9898.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-1.24
+noisy_566_2bdd22.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,2.82
+noisy_567_9c8540.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,helicopter-propeller-sound.wav,3.55
+noisy_568_054c03.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,hk-g36c_7sec.wav,0.27
+noisy_569_490055.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,hk-ump45_7sec.wav,4.51
+noisy_570_b3c632.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,kriss-vector_7sec.wav,2.58
+noisy_571_896a33.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,m16_7sec.wav,0.83
+noisy_572_aedffe.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,machine-gun-381969 (mp3cut.net).wav,4.84
+noisy_573_fabca1.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,mini-14_7sec (mp3cut.net).wav,-0.93
+noisy_574_51e46c.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,steyr-aug_7sec.wav,0.48
+noisy_575_47e86b.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,submarine-alarm-sound.wav,-0.11
+noisy_576_11876d.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,tank-moving-143104.wav,-0.67
+noisy_577_5f207c.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,3.32
+noisy_578_00a974.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,4.84
+noisy_579_38c1b1.wav,man-it-s-been-a-long-war-it-s-been-a-tough-war.wav,the-sound-of-explosions-during-the-bombing.wav,-0.51
+noisy_580_ea9a18.wav,radio-vocal-disengage-i-repeat-disengage.wav,ak-12_7sec.wav,3.71
+noisy_581_22ee72.wav,radio-vocal-disengage-i-repeat-disengage.wav,ak-47_7sec.wav,3.45
+noisy_582_d9852e.wav,radio-vocal-disengage-i-repeat-disengage.wav,beretta-92_7sec.wav,0.31
+noisy_583_6dcbb1.wav,radio-vocal-disengage-i-repeat-disengage.wav,daewoo-k2_7sec.wav,-0.99
+noisy_584_18ea45.wav,radio-vocal-disengage-i-repeat-disengage.wav,desert-eagle_7sec.wav,1.39
+noisy_585_fd4426.wav,radio-vocal-disengage-i-repeat-disengage.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,3.42
+noisy_586_cd57c4.wav,radio-vocal-disengage-i-repeat-disengage.wav,double-barrel-shotgun_7sec.wav,-1.5
+noisy_587_01cd21.wav,radio-vocal-disengage-i-repeat-disengage.wav,dp-27-lmg_7sec.wav,4.52
+noisy_588_7a46f0.wav,radio-vocal-disengage-i-repeat-disengage.wav,f-106-fly-by-98385 (mp3cut.net).wav,-1.69
+noisy_589_149069.wav,radio-vocal-disengage-i-repeat-disengage.wav,fn-p90_7sec (mp3cut.net).wav,1.72
+noisy_590_16b38c.wav,radio-vocal-disengage-i-repeat-disengage.wav,fn-scar_7sec.wav,2.39
+noisy_591_c56316.wav,radio-vocal-disengage-i-repeat-disengage.wav,gun-shots-from-a-distance-8-39860.wav,-0.54
+noisy_592_8ae628.wav,radio-vocal-disengage-i-repeat-disengage.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,0.63
+noisy_593_7be2ad.wav,radio-vocal-disengage-i-repeat-disengage.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,0.89
+noisy_594_a82b40.wav,radio-vocal-disengage-i-repeat-disengage.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-1.57
+noisy_595_72cd73.wav,radio-vocal-disengage-i-repeat-disengage.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,4.3
+noisy_596_bf483a.wav,radio-vocal-disengage-i-repeat-disengage.wav,helicopter-propeller-sound.wav,-1.95
+noisy_597_3f5466.wav,radio-vocal-disengage-i-repeat-disengage.wav,hk-g36c_7sec.wav,-0.23
+noisy_598_b59207.wav,radio-vocal-disengage-i-repeat-disengage.wav,hk-ump45_7sec.wav,3.17
+noisy_599_f50d89.wav,radio-vocal-disengage-i-repeat-disengage.wav,kriss-vector_7sec.wav,-1.36
+noisy_600_ba6ace.wav,radio-vocal-disengage-i-repeat-disengage.wav,m16_7sec.wav,-0.45
+noisy_601_e61a55.wav,radio-vocal-disengage-i-repeat-disengage.wav,machine-gun-381969 (mp3cut.net).wav,1.98
+noisy_602_23bdc7.wav,radio-vocal-disengage-i-repeat-disengage.wav,mini-14_7sec (mp3cut.net).wav,-0.82
+noisy_603_cf5b0f.wav,radio-vocal-disengage-i-repeat-disengage.wav,steyr-aug_7sec.wav,2.02
+noisy_604_d7a77f.wav,radio-vocal-disengage-i-repeat-disengage.wav,submarine-alarm-sound.wav,4.07
+noisy_605_33b9e2.wav,radio-vocal-disengage-i-repeat-disengage.wav,tank-moving-143104.wav,4.63
+noisy_606_0a2992.wav,radio-vocal-disengage-i-repeat-disengage.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,4.08
+noisy_607_eb7a5a.wav,radio-vocal-disengage-i-repeat-disengage.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,3.09
+noisy_608_fd428e.wav,radio-vocal-disengage-i-repeat-disengage.wav,the-sound-of-explosions-during-the-bombing.wav,1.61
+noisy_609_d5589b.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,ak-12_7sec.wav,4.36
+noisy_610_8786ad.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,ak-47_7sec.wav,1.38
+noisy_611_344e6a.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,beretta-92_7sec.wav,-1.68
+noisy_612_b5b12e.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,daewoo-k2_7sec.wav,-1.19
+noisy_613_b2cfe7.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,desert-eagle_7sec.wav,-1.87
+noisy_614_f79201.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,3.18
+noisy_615_4cfac6.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,double-barrel-shotgun_7sec.wav,-2.0
+noisy_616_5a0ab8.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,dp-27-lmg_7sec.wav,1.12
+noisy_617_7ec805.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,f-106-fly-by-98385 (mp3cut.net).wav,-1.51
+noisy_618_595924.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,fn-p90_7sec (mp3cut.net).wav,3.41
+noisy_619_ca1aec.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,fn-scar_7sec.wav,-1.0
+noisy_620_aa5a73.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,gun-shots-from-a-distance-8-39860.wav,3.28
+noisy_621_ecbc2d.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,1.12
+noisy_622_b526a5.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.53
+noisy_623_2e710a.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-1.7
+noisy_624_a54866.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,3.76
+noisy_625_e5d069.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,helicopter-propeller-sound.wav,0.22
+noisy_626_c17bdd.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,hk-g36c_7sec.wav,1.68
+noisy_627_37ea39.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,hk-ump45_7sec.wav,0.16
+noisy_628_b8048c.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,kriss-vector_7sec.wav,3.4
+noisy_629_c35491.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,m16_7sec.wav,-1.97
+noisy_630_5d686c.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,machine-gun-381969 (mp3cut.net).wav,4.07
+noisy_631_07b41a.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,mini-14_7sec (mp3cut.net).wav,-1.68
+noisy_632_a908d6.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,steyr-aug_7sec.wav,1.3
+noisy_633_56f8bb.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,submarine-alarm-sound.wav,3.34
+noisy_634_4fdfc5.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,tank-moving-143104.wav,1.42
+noisy_635_505ed0.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,4.83
+noisy_636_a3599c.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,3.32
+noisy_637_33c7a5.wav,radio-vocal-our-speeds-are-rising-were-going-too-fast.wav,the-sound-of-explosions-during-the-bombing.wav,-0.94
+noisy_638_c03598.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,ak-12_7sec.wav,3.67
+noisy_639_6dd3f6.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,ak-47_7sec.wav,2.57
+noisy_640_76f63f.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,beretta-92_7sec.wav,-0.91
+noisy_641_0711a7.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,daewoo-k2_7sec.wav,3.19
+noisy_642_3d82fb.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,desert-eagle_7sec.wav,-1.48
+noisy_643_602be2.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,2.66
+noisy_644_a51cb5.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,double-barrel-shotgun_7sec.wav,0.4
+noisy_645_b001f7.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,dp-27-lmg_7sec.wav,4.67
+noisy_646_a8596f.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,f-106-fly-by-98385 (mp3cut.net).wav,2.61
+noisy_647_31184b.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,fn-p90_7sec (mp3cut.net).wav,1.23
+noisy_648_3baaf1.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,fn-scar_7sec.wav,2.35
+noisy_649_e3dc31.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,gun-shots-from-a-distance-8-39860.wav,-0.4
+noisy_650_5c0f5d.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,0.75
+noisy_651_510e0d.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,3.99
+noisy_652_cab7d5.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,1.88
+noisy_653_504190.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,2.25
+noisy_654_76f311.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,helicopter-propeller-sound.wav,0.37
+noisy_655_01f033.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,hk-g36c_7sec.wav,3.09
+noisy_656_f190b8.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,hk-ump45_7sec.wav,2.94
+noisy_657_44c612.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,kriss-vector_7sec.wav,-0.22
+noisy_658_96fb82.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,m16_7sec.wav,-0.56
+noisy_659_df5590.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,machine-gun-381969 (mp3cut.net).wav,-0.94
+noisy_660_5f1d49.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,mini-14_7sec (mp3cut.net).wav,1.0
+noisy_661_d1c6fb.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,steyr-aug_7sec.wav,4.36
+noisy_662_b38c5d.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,submarine-alarm-sound.wav,0.12
+noisy_663_c6156c.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,tank-moving-143104.wav,4.5
+noisy_664_3c5d2e.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,4.21
+noisy_665_8e6426.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-0.3
+noisy_666_f1690b.wav,radio-vocal-rookie-disengage-enemy-tanks.wav,the-sound-of-explosions-during-the-bombing.wav,-0.43
+noisy_667_21c045.wav,radio-vocal-spotted-enemy-tanks-north.wav,ak-12_7sec.wav,2.18
+noisy_668_0e806c.wav,radio-vocal-spotted-enemy-tanks-north.wav,ak-47_7sec.wav,1.64
+noisy_669_fd446f.wav,radio-vocal-spotted-enemy-tanks-north.wav,beretta-92_7sec.wav,1.96
+noisy_670_1f7924.wav,radio-vocal-spotted-enemy-tanks-north.wav,daewoo-k2_7sec.wav,0.76
+noisy_671_9d6728.wav,radio-vocal-spotted-enemy-tanks-north.wav,desert-eagle_7sec.wav,1.15
+noisy_672_d049b0.wav,radio-vocal-spotted-enemy-tanks-north.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,4.53
+noisy_673_4e326a.wav,radio-vocal-spotted-enemy-tanks-north.wav,double-barrel-shotgun_7sec.wav,-0.81
+noisy_674_c078e1.wav,radio-vocal-spotted-enemy-tanks-north.wav,dp-27-lmg_7sec.wav,0.53
+noisy_675_b129e1.wav,radio-vocal-spotted-enemy-tanks-north.wav,f-106-fly-by-98385 (mp3cut.net).wav,1.04
+noisy_676_602329.wav,radio-vocal-spotted-enemy-tanks-north.wav,fn-p90_7sec (mp3cut.net).wav,0.94
+noisy_677_f326ab.wav,radio-vocal-spotted-enemy-tanks-north.wav,fn-scar_7sec.wav,4.87
+noisy_678_5c18d0.wav,radio-vocal-spotted-enemy-tanks-north.wav,gun-shots-from-a-distance-8-39860.wav,-1.07
+noisy_679_96574c.wav,radio-vocal-spotted-enemy-tanks-north.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,3.44
+noisy_680_0d5d31.wav,radio-vocal-spotted-enemy-tanks-north.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.02
+noisy_681_1f635a.wav,radio-vocal-spotted-enemy-tanks-north.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,4.85
+noisy_682_3071a1.wav,radio-vocal-spotted-enemy-tanks-north.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,4.38
+noisy_683_e49b89.wav,radio-vocal-spotted-enemy-tanks-north.wav,helicopter-propeller-sound.wav,-0.79
+noisy_684_859812.wav,radio-vocal-spotted-enemy-tanks-north.wav,hk-g36c_7sec.wav,3.48
+noisy_685_a1f6d9.wav,radio-vocal-spotted-enemy-tanks-north.wav,hk-ump45_7sec.wav,-1.96
+noisy_686_907ebc.wav,radio-vocal-spotted-enemy-tanks-north.wav,kriss-vector_7sec.wav,2.88
+noisy_687_868b8a.wav,radio-vocal-spotted-enemy-tanks-north.wav,m16_7sec.wav,0.69
+noisy_688_ef66b5.wav,radio-vocal-spotted-enemy-tanks-north.wav,machine-gun-381969 (mp3cut.net).wav,0.3
+noisy_689_74fe71.wav,radio-vocal-spotted-enemy-tanks-north.wav,mini-14_7sec (mp3cut.net).wav,4.14
+noisy_690_4dbcd5.wav,radio-vocal-spotted-enemy-tanks-north.wav,steyr-aug_7sec.wav,-0.52
+noisy_691_d5f055.wav,radio-vocal-spotted-enemy-tanks-north.wav,submarine-alarm-sound.wav,3.48
+noisy_692_62007c.wav,radio-vocal-spotted-enemy-tanks-north.wav,tank-moving-143104.wav,1.93
+noisy_693_8e71f3.wav,radio-vocal-spotted-enemy-tanks-north.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.34
+noisy_694_6d853a.wav,radio-vocal-spotted-enemy-tanks-north.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,4.15
+noisy_695_6debcc.wav,radio-vocal-spotted-enemy-tanks-north.wav,the-sound-of-explosions-during-the-bombing.wav,0.84
+noisy_696_bb44e2.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,ak-12_7sec.wav,-1.32
+noisy_697_c8519f.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,ak-47_7sec.wav,0.25
+noisy_698_692af8.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,beretta-92_7sec.wav,-1.38
+noisy_699_4fd42e.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,daewoo-k2_7sec.wav,1.69
+noisy_700_25eb33.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,desert-eagle_7sec.wav,0.13
+noisy_701_006062.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,4.31
+noisy_702_382d5d.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,double-barrel-shotgun_7sec.wav,1.54
+noisy_703_7f1713.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,dp-27-lmg_7sec.wav,-0.67
+noisy_704_abc893.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,f-106-fly-by-98385 (mp3cut.net).wav,4.59
+noisy_705_3972c3.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,fn-p90_7sec (mp3cut.net).wav,4.39
+noisy_706_965954.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,fn-scar_7sec.wav,4.4
+noisy_707_c85fb2.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,gun-shots-from-a-distance-8-39860.wav,3.56
+noisy_708_1c453b.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,-0.63
+noisy_709_1ee873.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,0.65
+noisy_710_10ed4c.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,3.32
+noisy_711_f54a1c.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,-1.91
+noisy_712_faded9.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,helicopter-propeller-sound.wav,-1.75
+noisy_713_6caf9b.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,hk-g36c_7sec.wav,0.62
+noisy_714_5747f6.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,hk-ump45_7sec.wav,1.1
+noisy_715_31c471.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,kriss-vector_7sec.wav,-0.97
+noisy_716_5fa8a1.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,m16_7sec.wav,2.64
+noisy_717_188e4e.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,machine-gun-381969 (mp3cut.net).wav,-1.47
+noisy_718_644e57.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,mini-14_7sec (mp3cut.net).wav,0.19
+noisy_719_6df0d0.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,steyr-aug_7sec.wav,3.19
+noisy_720_f176e3.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,submarine-alarm-sound.wav,3.13
+noisy_721_2abb89.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,tank-moving-143104.wav,1.46
+noisy_722_77389c.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,0.48
+noisy_723_37a94d.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,4.62
+noisy_724_2c7512.wav,remember-boys-easy-company-wwii-fighting-serving-band-of-brothers-war-impressions.wav,the-sound-of-explosions-during-the-bombing.wav,2.47
+noisy_725_7d9ad9.wav,ricardo.wav,ak-12_7sec.wav,-0.94
+noisy_726_feb497.wav,ricardo.wav,ak-47_7sec.wav,3.38
+noisy_727_f36403.wav,ricardo.wav,beretta-92_7sec.wav,4.31
+noisy_728_9e13f0.wav,ricardo.wav,daewoo-k2_7sec.wav,-0.46
+noisy_729_de88d3.wav,ricardo.wav,desert-eagle_7sec.wav,0.72
+noisy_730_0f389c.wav,ricardo.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,2.4
+noisy_731_42549d.wav,ricardo.wav,double-barrel-shotgun_7sec.wav,3.42
+noisy_732_fb25fb.wav,ricardo.wav,dp-27-lmg_7sec.wav,4.46
+noisy_733_2ce5f8.wav,ricardo.wav,f-106-fly-by-98385 (mp3cut.net).wav,-1.98
+noisy_734_566115.wav,ricardo.wav,fn-p90_7sec (mp3cut.net).wav,2.17
+noisy_735_cc3a43.wav,ricardo.wav,fn-scar_7sec.wav,3.63
+noisy_736_756b9e.wav,ricardo.wav,gun-shots-from-a-distance-8-39860.wav,-1.69
+noisy_737_f30ff3.wav,ricardo.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,0.69
+noisy_738_06d012.wav,ricardo.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,2.63
+noisy_739_d2cb2b.wav,ricardo.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-1.21
+noisy_740_aad89e.wav,ricardo.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,0.49
+noisy_741_de671f.wav,ricardo.wav,helicopter-propeller-sound.wav,4.16
+noisy_742_686e18.wav,ricardo.wav,hk-g36c_7sec.wav,3.5
+noisy_743_b61b40.wav,ricardo.wav,hk-ump45_7sec.wav,1.4
+noisy_744_089839.wav,ricardo.wav,kriss-vector_7sec.wav,-1.64
+noisy_745_76e0db.wav,ricardo.wav,m16_7sec.wav,3.75
+noisy_746_59084f.wav,ricardo.wav,machine-gun-381969 (mp3cut.net).wav,1.83
+noisy_747_e7838a.wav,ricardo.wav,mini-14_7sec (mp3cut.net).wav,2.22
+noisy_748_ed03ce.wav,ricardo.wav,steyr-aug_7sec.wav,-1.12
+noisy_749_ce89ec.wav,ricardo.wav,submarine-alarm-sound.wav,2.32
+noisy_750_ef2268.wav,ricardo.wav,tank-moving-143104.wav,0.93
+noisy_751_eae18d.wav,ricardo.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,-0.81
+noisy_752_2d3593.wav,ricardo.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-1.57
+noisy_753_2cfe32.wav,ricardo.wav,the-sound-of-explosions-during-the-bombing.wav,-0.62
+noisy_754_d89e70.wav,this-is-not-fox-company.wav,ak-12_7sec.wav,4.95
+noisy_755_b099fc.wav,this-is-not-fox-company.wav,ak-47_7sec.wav,3.74
+noisy_756_3dbe5f.wav,this-is-not-fox-company.wav,beretta-92_7sec.wav,-1.19
+noisy_757_abfd27.wav,this-is-not-fox-company.wav,daewoo-k2_7sec.wav,2.49
+noisy_758_d01730.wav,this-is-not-fox-company.wav,desert-eagle_7sec.wav,-1.09
+noisy_759_386884.wav,this-is-not-fox-company.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,4.3
+noisy_760_213585.wav,this-is-not-fox-company.wav,double-barrel-shotgun_7sec.wav,-1.12
+noisy_761_cfc22b.wav,this-is-not-fox-company.wav,dp-27-lmg_7sec.wav,4.94
+noisy_762_e1a9e9.wav,this-is-not-fox-company.wav,f-106-fly-by-98385 (mp3cut.net).wav,3.41
+noisy_763_e74e00.wav,this-is-not-fox-company.wav,fn-p90_7sec (mp3cut.net).wav,4.52
+noisy_764_784182.wav,this-is-not-fox-company.wav,fn-scar_7sec.wav,2.4
+noisy_765_60711c.wav,this-is-not-fox-company.wav,gun-shots-from-a-distance-8-39860.wav,-0.16
+noisy_766_f6ed23.wav,this-is-not-fox-company.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,4.25
+noisy_767_6ee52b.wav,this-is-not-fox-company.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,1.12
+noisy_768_49edb1.wav,this-is-not-fox-company.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-0.71
+noisy_769_cb3bed.wav,this-is-not-fox-company.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,4.55
+noisy_770_f21108.wav,this-is-not-fox-company.wav,helicopter-propeller-sound.wav,-1.62
+noisy_771_460a1c.wav,this-is-not-fox-company.wav,hk-g36c_7sec.wav,-0.46
+noisy_772_792fb0.wav,this-is-not-fox-company.wav,hk-ump45_7sec.wav,4.79
+noisy_773_5f2e2a.wav,this-is-not-fox-company.wav,kriss-vector_7sec.wav,0.73
+noisy_774_e2f22d.wav,this-is-not-fox-company.wav,m16_7sec.wav,3.09
+noisy_775_d366a8.wav,this-is-not-fox-company.wav,machine-gun-381969 (mp3cut.net).wav,3.68
+noisy_776_8d7073.wav,this-is-not-fox-company.wav,mini-14_7sec (mp3cut.net).wav,3.25
+noisy_777_a85682.wav,this-is-not-fox-company.wav,steyr-aug_7sec.wav,-0.11
+noisy_778_6cbffe.wav,this-is-not-fox-company.wav,submarine-alarm-sound.wav,0.11
+noisy_779_139b34.wav,this-is-not-fox-company.wav,tank-moving-143104.wav,4.12
+noisy_780_221394.wav,this-is-not-fox-company.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,-1.58
+noisy_781_cb384d.wav,this-is-not-fox-company.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-1.59
+noisy_782_e8aaae.wav,this-is-not-fox-company.wav,the-sound-of-explosions-during-the-bombing.wav,4.14
+noisy_783_c24318.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,ak-12_7sec.wav,-0.12
+noisy_784_ab8320.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,ak-47_7sec.wav,2.91
+noisy_785_28de31.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,beretta-92_7sec.wav,4.09
+noisy_786_e9aca2.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,daewoo-k2_7sec.wav,0.88
+noisy_787_8603f2.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,desert-eagle_7sec.wav,1.62
+noisy_788_4f7e8c.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,4.22
+noisy_789_f0d80c.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,double-barrel-shotgun_7sec.wav,2.53
+noisy_790_5d1b48.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,dp-27-lmg_7sec.wav,1.07
+noisy_791_e5bf54.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,f-106-fly-by-98385 (mp3cut.net).wav,0.77
+noisy_792_79389d.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,fn-p90_7sec (mp3cut.net).wav,-0.78
+noisy_793_cf3292.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,fn-scar_7sec.wav,4.44
+noisy_794_ac7b6e.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,gun-shots-from-a-distance-8-39860.wav,2.66
+noisy_795_eeaba7.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,-1.08
+noisy_796_68ac09.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,4.94
+noisy_797_58f545.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,-1.8
+noisy_798_96af74.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,1.34
+noisy_799_d6ea1f.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,helicopter-propeller-sound.wav,-1.44
+noisy_800_fe5587.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,hk-g36c_7sec.wav,4.7
+noisy_801_4e4940.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,hk-ump45_7sec.wav,-1.52
+noisy_802_b97f9e.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,kriss-vector_7sec.wav,1.29
+noisy_803_ccf947.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,m16_7sec.wav,3.51
+noisy_804_b176d7.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,machine-gun-381969 (mp3cut.net).wav,0.99
+noisy_805_768d6b.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,mini-14_7sec (mp3cut.net).wav,3.37
+noisy_806_fb4590.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,steyr-aug_7sec.wav,4.59
+noisy_807_2dacde.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,submarine-alarm-sound.wav,2.31
+noisy_808_5e0f78.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,tank-moving-143104.wav,0.16
+noisy_809_5cf680.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,2.31
+noisy_810_eabd6a.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-0.86
+noisy_811_73fb48.wav,we-have-a-man-down-male-military-radio-usa-zeroframe-audio-1-1-00-01.wav,the-sound-of-explosions-during-the-bombing.wav,0.65
+noisy_812_d5dc74.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,ak-12_7sec.wav,2.66
+noisy_813_2c2540.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,ak-47_7sec.wav,0.95
+noisy_814_fd643a.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,beretta-92_7sec.wav,0.51
+noisy_815_afe2b4.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,daewoo-k2_7sec.wav,-1.22
+noisy_816_6af2f9.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,desert-eagle_7sec.wav,-1.51
+noisy_817_537e40.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,-1.6
+noisy_818_c4a619.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,double-barrel-shotgun_7sec.wav,2.48
+noisy_819_f5ab65.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,dp-27-lmg_7sec.wav,1.42
+noisy_820_a42913.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,f-106-fly-by-98385 (mp3cut.net).wav,4.53
+noisy_821_0d1d6d.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,fn-p90_7sec (mp3cut.net).wav,3.19
+noisy_822_044bbf.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,fn-scar_7sec.wav,-0.56
+noisy_823_65cc07.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,gun-shots-from-a-distance-8-39860.wav,1.31
+noisy_824_cd82bd.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,5.0
+noisy_825_10f4f4.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,2.64
+noisy_826_a26545.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,4.35
+noisy_827_0ddddd.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,-1.98
+noisy_828_977f34.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,helicopter-propeller-sound.wav,-0.1
+noisy_829_c48ac3.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,hk-g36c_7sec.wav,-1.71
+noisy_830_60c99c.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,hk-ump45_7sec.wav,4.92
+noisy_831_0366b9.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,kriss-vector_7sec.wav,4.24
+noisy_832_368b7f.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,m16_7sec.wav,1.01
+noisy_833_4dc0e0.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,machine-gun-381969 (mp3cut.net).wav,2.68
+noisy_834_0a25d1.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,mini-14_7sec (mp3cut.net).wav,2.54
+noisy_835_848831.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,steyr-aug_7sec.wav,1.65
+noisy_836_eaa24a.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,submarine-alarm-sound.wav,0.83
+noisy_837_043ec2.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,tank-moving-143104.wav,2.76
+noisy_838_763a40.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,1.36
+noisy_839_22566a.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,1.76
+noisy_840_47f225.wav,we-ll-be-setting-off-from-the-same-place-we-did-last-night.wav,the-sound-of-explosions-during-the-bombing.wav,4.57
+noisy_841_a69ebb.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,ak-12_7sec.wav,-1.38
+noisy_842_ceab0d.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,ak-47_7sec.wav,3.88
+noisy_843_61772e.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,beretta-92_7sec.wav,-1.54
+noisy_844_056e96.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,daewoo-k2_7sec.wav,-0.95
+noisy_845_2a969c.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,desert-eagle_7sec.wav,2.69
+noisy_846_8754d3.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,discharged-projectile-explodes-in-the-distance (mp3cut.net).wav,0.89
+noisy_847_41577f.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,double-barrel-shotgun_7sec.wav,0.54
+noisy_848_b23195.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,dp-27-lmg_7sec.wav,-1.42
+noisy_849_584661.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,f-106-fly-by-98385 (mp3cut.net).wav,-1.58
+noisy_850_22f103.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,fn-p90_7sec (mp3cut.net).wav,-0.19
+noisy_851_5899f1.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,fn-scar_7sec.wav,3.01
+noisy_852_02bd89.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,gun-shots-from-a-distance-8-39860.wav,4.24
+noisy_853_0943d8.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,heavy-howitzer-strike-on-target-[AudioTrimmer.com].wav,2.47
+noisy_854_fa4f1f.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (1).wav,-1.43
+noisy_855_97ee4f.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,helicopter-flying-over-245480-[AudioTrimmer.com] (2).wav,4.5
+noisy_856_e63674.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,helicopter-flying-over-245480-[AudioTrimmer.com].wav,3.55
+noisy_857_c44f70.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,helicopter-propeller-sound.wav,1.83
+noisy_858_ad9baa.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,hk-g36c_7sec.wav,2.9
+noisy_859_01d5cd.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,hk-ump45_7sec.wav,2.63
+noisy_860_e1d44f.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,kriss-vector_7sec.wav,4.53
+noisy_861_44f5dd.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,m16_7sec.wav,3.26
+noisy_862_6bffd1.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,machine-gun-381969 (mp3cut.net).wav,-1.92
+noisy_863_fc0a56.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,mini-14_7sec (mp3cut.net).wav,1.04
+noisy_864_144034.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,steyr-aug_7sec.wav,1.16
+noisy_865_f541ed.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,submarine-alarm-sound.wav,3.09
+noisy_866_377dcc.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,tank-moving-143104.wav,0.56
+noisy_867_74c78e.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,the-sound-of-a-helicopter-crashing-on-the-rocks (mp3cut.net).wav,1.75
+noisy_868_0cb161.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,the-sound-of-a-siren-in-a-military-hangar-which-notifies-the-readiness-of-soldiers-for-military-acti.wav,-0.09
+noisy_869_769817.wav,with-your-permission-i-would-like-to-address-my-men-briefly.wav,the-sound-of-explosions-during-the-bombing.wav,3.81
