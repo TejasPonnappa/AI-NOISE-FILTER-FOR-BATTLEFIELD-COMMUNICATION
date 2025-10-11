@@ -1,4 +1,6 @@
+# scripts/preprocess_audio.py
 import os
+import csv
 from pydub import AudioSegment
 import librosa
 import soundfile as sf
@@ -6,56 +8,66 @@ import soundfile as sf
 # -----------------------------
 # Paths
 # -----------------------------
-clean_dir = "data/clean/"
-noisy_dir = "data/noisy/"
-processed_clean_dir = "data/clean_processed/"
-processed_noisy_dir = "data/noisy_processed/"
+CLEAN_DIR = "data/clean/"
+NOISY_DIR = "data/noisy/"
+PROCESSED_CLEAN_DIR = "data/clean_processed/"
+PROCESSED_NOISY_DIR = "data/noisy_processed/"
+MAPPING_CSV = os.path.join(NOISY_DIR, "mapping.csv")
 
-os.makedirs(processed_clean_dir, exist_ok=True)
-os.makedirs(processed_noisy_dir, exist_ok=True)
+os.makedirs(PROCESSED_CLEAN_DIR, exist_ok=True)
+os.makedirs(PROCESSED_NOISY_DIR, exist_ok=True)
 
-MIN_LENGTH = 2000  # 1 second in ms
+# -----------------------------
+# Parameters
+# -----------------------------
 TARGET_SR = 16000  # 16 kHz
 
 # -----------------------------
-# Function to normalize audio
+# Normalize audio
 # -----------------------------
 def normalize_audio(audio_segment):
     return audio_segment.apply_gain(-audio_segment.max_dBFS)
 
 # -----------------------------
-# Process a folder
+# Preprocess single file
 # -----------------------------
-def process_folder(input_dir, output_dir):
-    files = [f for f in os.listdir(input_dir) if f.endswith(".wav")]
-    for f in files:
-        file_path = os.path.join(input_dir, f)
-        audio = AudioSegment.from_wav(file_path)
-
-        if len(audio) < MIN_LENGTH:
-            print(f"Skipping {f} (too short)")
-            continue
-
-        # Normalize
-        audio = normalize_audio(audio)
-
-        # Export to temp WAV for resampling
-        temp_path = os.path.join(output_dir, "temp.wav")
-        audio.export(temp_path, format="wav")
-
-        # Resample to 16 kHz using librosa
-        y, _ = librosa.load(temp_path, sr=TARGET_SR)
-        out_path = os.path.join(output_dir, f)
-        sf.write(out_path, y, TARGET_SR)
-        print(f"Processed: {f}")
+def preprocess_file(input_path, output_path):
+    audio = AudioSegment.from_wav(input_path)
+    
+    # Normalize
+    audio = normalize_audio(audio)
+    
+    # Export temp wav
+    temp_path = output_path + "_temp.wav"
+    audio.export(temp_path, format="wav")
+    
+    # Resample using librosa
+    y, _ = librosa.load(temp_path, sr=TARGET_SR)
+    sf.write(output_path, y, TARGET_SR)
+    
+    os.remove(temp_path)  # remove temp file
+    return True
 
 # -----------------------------
-# Run preprocessing
+# Process all files according to mapping
 # -----------------------------
-print("Processing clean audio...")
-process_folder(clean_dir, processed_clean_dir)
-
-print("Processing noisy audio...")
-process_folder(noisy_dir, processed_noisy_dir)
+with open(MAPPING_CSV, "r") as csvfile:
+    reader = csv.DictReader(csvfile)
+    
+    for row in reader:
+        clean_file = row["clean_file"]
+        noisy_file = row["noisy_file"]
+        
+        clean_input_path = os.path.join(CLEAN_DIR, clean_file)
+        noisy_input_path = os.path.join(NOISY_DIR, noisy_file)
+        
+        clean_output_path = os.path.join(PROCESSED_CLEAN_DIR, clean_file)
+        noisy_output_path = os.path.join(PROCESSED_NOISY_DIR, noisy_file)
+        
+        # Preprocess clean and noisy files
+        preprocess_file(clean_input_path, clean_output_path)
+        preprocess_file(noisy_input_path, noisy_output_path)
+        
+        print(f"Processed pair: {clean_file} + {noisy_file}")
 
 print("All audio preprocessing complete!")
