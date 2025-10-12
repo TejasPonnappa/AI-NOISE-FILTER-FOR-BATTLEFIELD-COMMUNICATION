@@ -11,7 +11,7 @@ from models.unet_model import UNet
 # -----------------------------
 # CONFIG
 # -----------------------------
-NOISY_FILE = "data/noisy/noisy_22_31fb0d.wav"  # Change to your file
+NOISY_FILE = "data/noisy/noisy_21_1f750e.wav"  # Change to your file
 OUTPUT_FILE = "data/cleaned/example_cleaned.wav"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 TARGET_SR = 16000
