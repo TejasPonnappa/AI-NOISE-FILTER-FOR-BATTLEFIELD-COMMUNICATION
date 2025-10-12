@@ -14,7 +14,7 @@ This project uses deep learning to remove background noise from real-time audio 
 
 * **Programming Language:** Python 3.9
 * **Core Libraries:** TensorFlow / PyTorch, Librosa, NumPy
-* **GUI (if any):** Streamlit
+* **GUI:** Streamlit
 
 ## Installation
 
@@ -34,8 +34,6 @@ Provide step-by-step instructions on how to get your project running.
     ```
 
 ## Usage
-
-Explain how to use your project after installation. Show example commands or code snippets.
 
 **Example:**
 
