@@ -18,8 +18,8 @@ CLEAN_DIR = "data/clean"
 CSV_FILE = "data/noisy/mapping.csv"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 TARGET_SR = 16000
-BATCH_SIZE = 4
-EPOCHS = 20
+BATCH_SIZE = 8
+EPOCHS = 40
 LEARNING_RATE = 1e-3
 
 # Manual max length in samples (19.7s)

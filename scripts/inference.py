@@ -2,16 +2,16 @@ import os
 import torch
 import torchaudio
 import torchaudio.transforms as T
+import matplotlib.pyplot as plt
+import numpy as np
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
 from models.unet_model import UNet
-
 
 # -----------------------------
 # CONFIG
 # -----------------------------
-NOISY_FILE = "data/noisy/noisy_18_53ecb7.wav"  # change to your file
+NOISY_FILE = "data/noisy/noisy_22_31fb0d.wav"  # Change to your file
 OUTPUT_FILE = "data/cleaned/example_cleaned.wav"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 TARGET_SR = 16000
@@ -38,6 +38,15 @@ def pad_or_truncate(wave, target_len=TARGET_LEN):
         wave = wave[:, :target_len]
     return wave
 
+def plot_waveform(wave, title="Waveform"):
+    wave_np = wave.squeeze().cpu().numpy()
+    plt.figure(figsize=(10, 2))
+    plt.plot(wave_np)
+    plt.title(title)
+    plt.xlabel("Samples")
+    plt.ylabel("Amplitude")
+    plt.show()
+
 # -----------------------------
 # LOAD MODEL
 # -----------------------------
@@ -49,9 +58,12 @@ model.eval()
 # PREPROCESS AUDIO
 # -----------------------------
 wave = load_resample_mono(NOISY_FILE)
-wave = pad_or_truncate(wave)
+original_len = wave.shape[1]        # <--- store original length
+wave_padded = pad_or_truncate(wave)
 
-spec = torch.stft(wave, n_fft=N_FFT, hop_length=HOP_LENGTH, return_complex=True).abs()
+spec = torch.stft(
+    wave_padded, n_fft=N_FFT, hop_length=HOP_LENGTH, return_complex=True
+).abs()
 spec = spec.unsqueeze(0).to(DEVICE)  # [1, 1, freq, time]
 
 # -----------------------------
@@ -64,10 +76,13 @@ with torch.no_grad():
 # -----------------------------
 # INVERSE STFT
 # -----------------------------
-# We’ll just use magnitude + original phase for simplicity
-phase = torch.angle(torch.stft(wave, n_fft=N_FFT, hop_length=HOP_LENGTH, return_complex=True))
+phase = torch.angle(torch.stft(
+    wave_padded, n_fft=N_FFT, hop_length=HOP_LENGTH, return_complex=True
+))
 complex_spec = cleaned_spec.squeeze(0) * torch.exp(1j * phase)
-cleaned_wave = torch.istft(complex_spec, n_fft=N_FFT, hop_length=HOP_LENGTH, length=TARGET_LEN)
+cleaned_wave = torch.istft(
+    complex_spec, n_fft=N_FFT, hop_length=HOP_LENGTH, length=original_len
+)
 
 # -----------------------------
 # SAVE OUTPUT
@@ -75,3 +90,12 @@ cleaned_wave = torch.istft(complex_spec, n_fft=N_FFT, hop_length=HOP_LENGTH, len
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 torchaudio.save(OUTPUT_FILE, cleaned_wave.cpu(), TARGET_SR)
 print(f"✅ Cleaned audio saved to: {OUTPUT_FILE}")
+
+from audio_postprocessing import post_process
+import soundfile as sf
+
+cleaned_wave_np = cleaned_wave.squeeze().cpu().numpy()
+processed = post_process(cleaned_wave_np, TARGET_SR)
+sf.write(OUTPUT_FILE.replace(".wav", "_final.wav"), processed, TARGET_SR)
+print("✅ Post-processed file saved.")
+
