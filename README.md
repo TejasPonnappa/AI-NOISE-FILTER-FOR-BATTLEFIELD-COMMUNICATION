@@ -40,3 +40,5 @@ Provide step-by-step instructions on how to get your project running.
 To process an audio file, run the following command:
 ```bash
 python process_audio.py --input audio/noisy_file.wav --output audio/clean_file.wav
+
+<WritingBlock id="58317" variant="document">## Noise Filtering Objectives
